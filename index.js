@@ -79,12 +79,12 @@ async function getData(callback){
 
 async function doLogin(){
 
-    browser = await puppeteer.launch({headless: true, timeout: 0});
+    browser = await puppeteer.launch({headless: false, timeout: 0});
     page = await browser.newPage();
     await page.goto('https://faroms.aa.com/FAReserves/Reports/CalloutReports');
     
     await page.type('#userLoginId', '172688');
-    await page.type('#userPassword', 'Hankerton7');
+    await page.type('#userPassword', 'Hankerton8');
     await page.evaluate('submitForm();')
     await page.waitForNavigation();
     let selector = '#ViewReport';
