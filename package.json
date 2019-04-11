@@ -1,0 +1,19 @@
+{
+  "name": "seleniom",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.3",
+    "experss": "^1000.0.0",
+    "node-cron": "^2.0.3",
+    "puppeteer-lambda": "^1.0.15",
+    "selenium-webdriver": "^4.0.0-alpha.1",
+    "tingodb": "^0.6.1"
+  }
+}

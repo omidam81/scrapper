@@ -1,0 +1,996 @@
+{"k":"0000000078","o":"0000000176","v":"001"}
+{"_id":2,"_uid":2,"_dt":1554757472559,"_s":"03dc29fa2ebc31b12d8bb61fdbf91ce7"}
+{"RAP":"","GRP":"","Sen":"","Callout":"","Begin":"","End":"","FA":"","Name":"","COT":"","Speaker":"","Result":"","Report":"","Pos":"","History":"","_id":{"$wrap":"$oid","v":2}}
+{"k":"0000000078","o":"0000000176","v":"001"}
+{"_id":3,"_uid":3,"_dt":1554757472567,"_s":"7e1f176ea0e0062bfcdd635054a0da80"}
+{"RAP":"","GRP":"","Sen":"","Callout":"","Begin":"","End":"","FA":"","Name":"","COT":"","Speaker":"","Result":"","Report":"","Pos":"","History":"","_id":{"$wrap":"$oid","v":3}}
+{"k":"0000000078","o":"0000000237","v":"001"}
+{"_id":4,"_uid":4,"_dt":1554757472568,"_s":"6ff267f94ef65726d6b44e3dbad5c1e1"}
+{"RAP":"C*","GRP":"1","Sen":"19863","Callout":"","Begin":"1200/07","End":"0000/08","FA":"151075","Name":"ALMENARA, SERGIO","COT":"0743","Speaker":"SP","Result":"UNAVAILABLE","Report":"","Pos":"","History":"","_id":{"$wrap":"$oid","v":4}}
+{"k":"0000000078","o":"0000000236","v":"001"}
+{"_id":5,"_uid":5,"_dt":1554757472568,"_s":"e6afda7d3edb5ba33b1860a58e794e1a"}
+{"RAP":"C*","GRP":"1","Sen":"25399","Callout":"","Begin":"1200/07","End":"0000/08","FA":"54769","Name":"VASILEVA, VIKTORIA","COT":"1238","Speaker":"","Result":"UNAVAILABLE","Report":"","Pos":"","History":"","_id":{"$wrap":"$oid","v":5}}
+{"k":"0000000078","o":"0000000232","v":"001"}
+{"_id":6,"_uid":6,"_dt":1554757472568,"_s":"929bef3408263db6f32eb45ebe2abf64"}
+{"RAP":"C*","GRP":"1","Sen":"25844","Callout":"","Begin":"1200/07","End":"0000/08","FA":"704882","Name":"MILLS, HOLLEE","COT":"2817","Speaker":"","Result":"UNAVAILABLE","Report":"","Pos":"","History":"","_id":{"$wrap":"$oid","v":6}}
+{"k":"0000000078","o":"0000000233","v":"001"}
+{"_id":7,"_uid":7,"_dt":1554757472569,"_s":"bac4ce6e790408e9950750f96acf2520"}
+{"RAP":"C*","GRP":"1","Sen":"25980","Callout":"","Begin":"1200/07","End":"0000/08","FA":"703856","Name":"HARRIS, AMELIA","COT":"1536","Speaker":"","Result":"UNAVAILABLE","Report":"","Pos":"","History":"","_id":{"$wrap":"$oid","v":7}}
+{"k":"0000000078","o":"0000000236","v":"001"}
+{"_id":8,"_uid":8,"_dt":1554757472569,"_s":"cd459e1f3decf5ad4b52f27bd89f061f"}
+{"RAP":"C*","GRP":"1","Sen":"26988","Callout":"","Begin":"1200/07","End":"0000/08","FA":"724675","Name":"RUIZ, CHRISTOPHER","COT":"1909","Speaker":"","Result":"UNAVAILABLE","Report":"","Pos":"","History":"","_id":{"$wrap":"$oid","v":8}}
+{"k":"0000000078","o":"0000000239","v":"001"}
+{"_id":9,"_uid":9,"_dt":1554757472569,"_s":"54ad0b1a29069b61a1da2ee25a14911d"}
+{"RAP":"C*","GRP":"1","Sen":"26995","Callout":"","Begin":"1200/07","End":"0000/08","FA":"723831","Name":"TORRES BURGOS, ROGER","COT":"4013","Speaker":"","Result":"UNAVAILABLE","Report":"","Pos":"","History":"","_id":{"$wrap":"$oid","v":9}}
+{"k":"0000000080","o":"0000000244","v":"001"}
+{"_id":10,"_uid":10,"_dt":1554757472569,"_s":"975a417758075719c59957cdf5db3c2d"}
+{"RAP":"D*","GRP":"1","Sen":"26071","Callout":"","Begin":"1600/07","End":"0400/08","FA":"705704","Name":"LABRIOLA, MICHELLE","COT":"1311","Speaker":"","Result":"31696/08","Report":"1657/08","Pos":"01","History":"","_id":{"$wrap":"$oid","v":10}}
+{"k":"0000000080","o":"0000000237","v":"001"}
+{"_id":11,"_uid":11,"_dt":1554757472569,"_s":"c2cb4c95facb301c2f947835eaaa2296"}
+{"RAP":"A","GRP":"1","Sen":"19863","Callout":"","Begin":"0300/08","End":"1500/08","FA":"151075","Name":"ALMENARA, SERGIO","COT":"0743","Speaker":"SP","Result":"UNAVAILABLE","Report":"","Pos":"","History":"","_id":{"$wrap":"$oid","v":11}}
+{"k":"0000000080","o":"0000000244","v":"001"}
+{"_id":12,"_uid":12,"_dt":1554757472570,"_s":"89b7aaefd327e15441ea71fb2218518c"}
+{"RAP":"A","GRP":"1","Sen":"23076","Callout":"","Begin":"0300/08","End":"1500/08","FA":"776125","Name":"TRAINOR, KATHERINE","COT":"7553","Speaker":"","Result":"UNAVAILABLE","Report":"","Pos":"","History":"5714/08","_id":{"$wrap":"$oid","v":12}}
+{"k":"0000000080","o":"0000000234","v":"001"}
+{"_id":13,"_uid":13,"_dt":1554757472570,"_s":"9b04df59c9bc973c156431e24a8bc152"}
+{"RAP":"A","GRP":"1","Sen":"23179","Callout":"","Begin":"0300/08","End":"1500/08","FA":"777496","Name":"RUSSELL, LAUREN","COT":"0356","Speaker":"","Result":"UNAVAILABLE","Report":"","Pos":"","History":"","_id":{"$wrap":"$oid","v":13}}
+{"k":"0000000080","o":"0000000242","v":"001"}
+{"_id":14,"_uid":14,"_dt":1554757472570,"_s":"071603b5ef87d42ef3e1f291ea4dc813"}
+{"RAP":"A","GRP":"1","Sen":"24444","Callout":"","Begin":"0300/08","End":"1500/08","FA":"823503","Name":"SCHWISOW, TYLER","COT":"2000","Speaker":"","Result":"UNAVAILABLE","Report":"","Pos":"","History":"19472/08","_id":{"$wrap":"$oid","v":14}}
+{"k":"0000000080","o":"0000000244","v":"001"}
+{"_id":15,"_uid":15,"_dt":1554757472570,"_s":"4230de7a3d9766dd27ba105bcf1eb654"}
+{"RAP":"A","GRP":"1","Sen":"25399","Callout":"","Begin":"0300/08","End":"1500/08","FA":"54769","Name":"VASILEVA, VIKTORIA","COT":"1238","Speaker":"","Result":"UNAVAILABLE","Report":"","Pos":"","History":"31639/08","_id":{"$wrap":"$oid","v":15}}
+{"k":"0000000080","o":"0000000245","v":"001"}
+{"_id":16,"_uid":16,"_dt":1554757472570,"_s":"5d5381d77a2b478fb2d3c3af2209d650"}
+{"RAP":"A","GRP":"1","Sen":"25633","Callout":"","Begin":"0300/08","End":"1500/08","FA":"700365","Name":"MCELROY, CHARLOTTE","COT":"2628","Speaker":"","Result":"UNAVAILABLE","Report":"","Pos":"","History":"31586/08","_id":{"$wrap":"$oid","v":16}}
+{"k":"0000000080","o":"0000000234","v":"001"}
+{"_id":17,"_uid":17,"_dt":1554757472570,"_s":"f17670aa1fe7e7419a4d53b1ba7c3521"}
+{"RAP":"A","GRP":"1","Sen":"25646","Callout":"","Begin":"0300/08","End":"1500/08","FA":"700363","Name":"CORBITT, CLAIRE","COT":"2203","Speaker":"","Result":"UNAVAILABLE","Report":"","Pos":"","History":"","_id":{"$wrap":"$oid","v":17}}
+{"k":"0000000080","o":"0000000239","v":"001"}
+{"_id":18,"_uid":18,"_dt":1554757472571,"_s":"f7242493d8da1db55a495534f5534c51"}
+{"RAP":"A","GRP":"1","Sen":"25847","Callout":"","Begin":"0300/08","End":"1500/08","FA":"702411","Name":"MYLES, HANNA","COT":"1027","Speaker":"","Result":"UNAVAILABLE","Report":"","Pos":"","History":"31588/08","_id":{"$wrap":"$oid","v":18}}
+{"k":"0000000080","o":"0000000243","v":"001"}
+{"_id":19,"_uid":19,"_dt":1554757472571,"_s":"b22a03172d74f3709f03f385b7985e4c"}
+{"RAP":"A","GRP":"1","Sen":"25870","Callout":"","Begin":"0300/08","End":"1500/08","FA":"704866","Name":"ONEAL, CHARLOTTE","COT":"3328","Speaker":"","Result":"UNAVAILABLE","Report":"","Pos":"","History":"31587/08","_id":{"$wrap":"$oid","v":19}}
+{"k":"0000000080","o":"0000000242","v":"001"}
+{"_id":20,"_uid":20,"_dt":1554757472571,"_s":"330bfffcaffdbb7f12d7eeee6eddc982"}
+{"RAP":"A","GRP":"1","Sen":"25880","Callout":"","Begin":"0300/08","End":"1500/08","FA":"704730","Name":"ASCHE, PATRICIA","COT":"2813","Speaker":"","Result":"UNAVAILABLE","Report":"","Pos":"","History":"31586/08","_id":{"$wrap":"$oid","v":20}}
+{"k":"0000000080","o":"0000000236","v":"001"}
+{"_id":21,"_uid":21,"_dt":1554757472571,"_s":"076106079b95133e6c5fbc7706ebb257"}
+{"RAP":"A","GRP":"1","Sen":"25887","Callout":"","Begin":"0300/08","End":"1500/08","FA":"706306","Name":"VICK, CODY","COT":"2847","Speaker":"","Result":"UNAVAILABLE","Report":"","Pos":"","History":"5812/08","_id":{"$wrap":"$oid","v":21}}
+{"k":"0000000080","o":"0000000237","v":"001"}
+{"_id":22,"_uid":22,"_dt":1554757472571,"_s":"2191b83c31e07ca35d85e5e98a915c5c"}
+{"RAP":"A","GRP":"1","Sen":"25915","Callout":"","Begin":"0319/08","End":"1500/08","FA":"702378","Name":"LIU, YIJIA","COT":"2816","Speaker":"","Result":"UNAVAILABLE","Report":"","Pos":"","History":"31586/08","_id":{"$wrap":"$oid","v":22}}
+{"k":"0000000080","o":"0000000238","v":"001"}
+{"_id":23,"_uid":23,"_dt":1554757472572,"_s":"d8db018a8d750308c8c84f2b9aa11c9e"}
+{"RAP":"A","GRP":"1","Sen":"25964","Callout":"","Begin":"0300/08","End":"1500/08","FA":"702459","Name":"RIVERS, CODY","COT":"3820","Speaker":"","Result":"UNAVAILABLE","Report":"","Pos":"","History":"5723/08","_id":{"$wrap":"$oid","v":23}}
+{"k":"0000000080","o":"0000000233","v":"001"}
+{"_id":24,"_uid":24,"_dt":1554757472572,"_s":"1d08d15c379f19821ea9617d9dc820a4"}
+{"RAP":"A","GRP":"1","Sen":"25980","Callout":"","Begin":"0300/08","End":"1500/08","FA":"703856","Name":"HARRIS, AMELIA","COT":"1015","Speaker":"","Result":"UNAVAILABLE","Report":"","Pos":"","History":"","_id":{"$wrap":"$oid","v":24}}
+{"k":"0000000080","o":"0000000240","v":"001"}
+{"_id":25,"_uid":25,"_dt":1554757472572,"_s":"273e74c6e7d417a81d9b4e33f684bd9b"}
+{"RAP":"A","GRP":"1","Sen":"26028","Callout":"","Begin":"0300/08","End":"1500/08","FA":"707060","Name":"OLSON, AMANDA","COT":"2233","Speaker":"","Result":"UNAVAILABLE","Report":"","Pos":"","History":"21214/08","_id":{"$wrap":"$oid","v":25}}
+{"k":"0000000080","o":"0000000244","v":"001"}
+{"_id":26,"_uid":26,"_dt":1554757472572,"_s":"dc361a890cdf031b85b31df9e9b65aef"}
+{"RAP":"A","GRP":"1","Sen":"26034","Callout":"","Begin":"0300/08","End":"1500/08","FA":"704854","Name":"ROTHFIELD, NICOLE","COT":"2345","Speaker":"","Result":"UNAVAILABLE","Report":"","Pos":"","History":"31586/08","_id":{"$wrap":"$oid","v":26}}
+{"k":"0000000080","o":"0000000240","v":"001"}
+{"_id":27,"_uid":27,"_dt":1554757472572,"_s":"01bd278f1fee78249c767986ceacbfab"}
+{"RAP":"A","GRP":"1","Sen":"26299","Callout":"","Begin":"0300/08","End":"1500/08","FA":"707440","Name":"THOMAS, ELLEN","COT":"1958","Speaker":"","Result":"UNAVAILABLE","Report":"","Pos":"","History":"31587/08","_id":{"$wrap":"$oid","v":27}}
+{"k":"0000000080","o":"0000000235","v":"001"}
+{"_id":28,"_uid":28,"_dt":1554757472573,"_s":"db94e6f0e4b67613d29f223dd088d986"}
+{"RAP":"A","GRP":"1","Sen":"26734","Callout":"","Begin":"0300/08","End":"1500/08","FA":"714945","Name":"HOWELL, STEFANIE","COT":"1609","Speaker":"","Result":"UNAVAILABLE","Report":"","Pos":"","History":"","_id":{"$wrap":"$oid","v":28}}
+{"k":"0000000080","o":"0000000236","v":"001"}
+{"_id":29,"_uid":29,"_dt":1554757472573,"_s":"b200f8df13b7fcf242c2a046f7b5ffd1"}
+{"RAP":"A","GRP":"1","Sen":"26988","Callout":"","Begin":"0300/08","End":"1500/08","FA":"724675","Name":"RUIZ, CHRISTOPHER","COT":"1319","Speaker":"","Result":"UNAVAILABLE","Report":"","Pos":"","History":"","_id":{"$wrap":"$oid","v":29}}
+{"k":"0000000080","o":"0000000234","v":"001"}
+{"_id":30,"_uid":30,"_dt":1554757472573,"_s":"023845e14b48b61893c079e9a0cd2ec5"}
+{"RAP":"A","GRP":"2","Sen":"25842","Callout":"","Begin":"0300/08","End":"1500/08","FA":"703322","Name":"RIDDLE, KATHRYN","COT":"0840","Speaker":"","Result":"UNAVAILABLE","Report":"","Pos":"","History":"","_id":{"$wrap":"$oid","v":30}}
+{"k":"0000000080","o":"0000000233","v":"001"}
+{"_id":31,"_uid":31,"_dt":1554757472573,"_s":"06587112df18f5d772492b8a4fbe73a3"}
+{"RAP":"A","GRP":"4","Sen":"23126","Callout":"","Begin":"0300/08","End":"1500/08","FA":"776940","Name":"YEUNG, PUI MAN","COT":"1832","Speaker":"","Result":"UNAVAILABLE","Report":"","Pos":"","History":"","_id":{"$wrap":"$oid","v":31}}
+{"k":"0000000080","o":"0000000237","v":"001"}
+{"_id":32,"_uid":32,"_dt":1554757472573,"_s":"a8c47adc2f2a443095f1b23fda9300f3"}
+{"RAP":"A","GRP":"4","Sen":"23364","Callout":"","Begin":"0300/08","End":"1500/08","FA":"767238","Name":"WOODWARD, SAMANTHA","COT":"1747","Speaker":"","Result":"UNAVAILABLE","Report":"","Pos":"","History":"","_id":{"$wrap":"$oid","v":32}}
+{"k":"0000000080","o":"0000000242","v":"001"}
+{"_id":33,"_uid":33,"_dt":1554757472573,"_s":"7038b6fdcae8b68be0172ab1d61f8cb6"}
+{"RAP":"A","GRP":"4","Sen":"25331","Callout":"","Begin":"0300/08","End":"1500/08","FA":"51607","Name":"MC DANIEL, KAITLIN","COT":"0515","Speaker":"","Result":"UNAVAILABLE","Report":"","Pos":"","History":"STBY/6","_id":{"$wrap":"$oid","v":33}}
+{"k":"0000000080","o":"0000000235","v":"001"}
+{"_id":34,"_uid":34,"_dt":1554757472573,"_s":"4b974cb5e5202dd6400342a591139a14"}
+{"RAP":"A","GRP":"5","Sen":"23154","Callout":"","Begin":"0300/08","End":"1500/08","FA":"777479","Name":"LE DUC, MICHELLE","COT":"1026","Speaker":"","Result":"UNAVAILABLE","Report":"","Pos":"","History":"","_id":{"$wrap":"$oid","v":34}}
+{"k":"0000000080","o":"0000000240","v":"001"}
+{"_id":35,"_uid":35,"_dt":1554757472574,"_s":"726a43afdc4f453190d8d77581cd535a"}
+{"RAP":"A","GRP":"5","Sen":"25364","Callout":"","Begin":"0300/08","End":"1500/08","FA":"52845","Name":"BECERRA, ANDRES","COT":"3357","Speaker":"","Result":"UNAVAILABLE","Report":"","Pos":"","History":"5813/08","_id":{"$wrap":"$oid","v":35}}
+{"k":"0000000080","o":"0000000232","v":"001"}
+{"_id":36,"_uid":36,"_dt":1554757472574,"_s":"62fe1ddaa8b04552d541fd97e433454d"}
+{"RAP":"A","GRP":"6","Sen":"25346","Callout":"","Begin":"0300/08","End":"1500/08","FA":"51646","Name":"BODIKER, ERICA","COT":"1543","Speaker":"","Result":"UNAVAILABLE","Report":"","Pos":"","History":"","_id":{"$wrap":"$oid","v":36}}
+{"k":"0000000080","o":"0000000244","v":"001"}
+{"_id":37,"_uid":37,"_dt":1554757472574,"_s":"0747c9468e516c05295bb05e0aadf9e2"}
+{"RAP":"B","GRP":"1","Sen":"19202","Callout":"","Begin":"0700/08","End":"1900/08","FA":"115354","Name":"AMBROSINO, BENJAMIN","COT":"2652","Speaker":"","Result":"31696/08","Report":"1657/08","Pos":"04","History":"","_id":{"$wrap":"$oid","v":37}}
+{"k":"0000000080","o":"0000000221","v":"001"}
+{"_id":38,"_uid":38,"_dt":1554757472574,"_s":"982c9249a3305c88c6a628668cab71f5"}
+{"RAP":"B","GRP":"1","Sen":"23189","Callout":"1","Begin":"0700/08","End":"1900/08","FA":"343830","Name":"HILL, LURAIN","COT":"2653","Speaker":"","Result":"","Report":"","Pos":"","History":"","_id":{"$wrap":"$oid","v":38}}
+{"k":"0000000080","o":"0000000225","v":"001"}
+{"_id":39,"_uid":39,"_dt":1554757472574,"_s":"2e810cfc32f2e02032638adef509b6b3"}
+{"RAP":"B","GRP":"1","Sen":"25690","Callout":"2","Begin":"0700/08","End":"1900/08","FA":"660777","Name":"ESHELMAN, HANNAH","COT":"1129","Speaker":"","Result":"","Report":"","Pos":"","History":"","_id":{"$wrap":"$oid","v":39}}
+{"k":"0000000080","o":"0000000222","v":"001"}
+{"_id":40,"_uid":40,"_dt":1554757472575,"_s":"08c0ed5786d118d799f3ece072c15082"}
+{"RAP":"B","GRP":"1","Sen":"25844","Callout":"3","Begin":"0700/08","End":"1900/08","FA":"704882","Name":"MILLS, HOLLEE","COT":"2817","Speaker":"","Result":"","Report":"","Pos":"","History":"","_id":{"$wrap":"$oid","v":40}}
+{"k":"0000000080","o":"0000000243","v":"001"}
+{"_id":41,"_uid":41,"_dt":1554757472575,"_s":"de5ec7edfe224bf1c4d60586c4bdf8fc"}
+{"RAP":"B","GRP":"1","Sen":"26071","Callout":"","Begin":"0700/08","End":"1900/08","FA":"705704","Name":"LABRIOLA, MICHELLE","COT":"1311","Speaker":"","Result":"31696/08","Report":"1657/08","Pos":"01","History":"","_id":{"$wrap":"$oid","v":41}}
+{"k":"0000000080","o":"0000000222","v":"001"}
+{"_id":42,"_uid":42,"_dt":1554757472575,"_s":"450cd96bb77ff7a2e8f5139b7eaf0260"}
+{"RAP":"B","GRP":"1","Sen":"26097","Callout":"4","Begin":"0700/08","End":"1900/08","FA":"708510","Name":"AKERS, ALYSSA","COT":"2240","Speaker":"","Result":"","Report":"","Pos":"","History":"","_id":{"$wrap":"$oid","v":42}}
+{"k":"0000000080","o":"0000000226","v":"001"}
+{"_id":43,"_uid":43,"_dt":1554757472575,"_s":"be4f498bb2dc7438ba4658c3aa049632"}
+{"RAP":"B","GRP":"1","Sen":"26735","Callout":"5","Begin":"0700/08","End":"1900/08","FA":"718584","Name":"SULLIVAN, SHANNON","COT":"2504","Speaker":"","Result":"","Report":"","Pos":"","History":"","_id":{"$wrap":"$oid","v":43}}
+{"k":"0000000080","o":"0000000230","v":"001"}
+{"_id":44,"_uid":44,"_dt":1554757472575,"_s":"fbc718b47209e23557923bff4fa910d6"}
+{"RAP":"B","GRP":"3","Sen":"21483","Callout":"6","Begin":"0700/08","End":"1900/08","FA":"428694","Name":"ALFINI, CHRISTY","COT":"1515","Speaker":"","Result":"","Report":"","Pos":"","History":"STBY/6","_id":{"$wrap":"$oid","v":44}}
+{"k":"0000000080","o":"0000000222","v":"001"}
+{"_id":45,"_uid":45,"_dt":1554757472576,"_s":"be15f4eec58b5ab6b17ee902c5a68014"}
+{"RAP":"B","GRP":"5","Sen":"18430","Callout":"7","Begin":"0700/08","End":"1900/08","FA":"109042","Name":"KARCHER, LISA","COT":"1000","Speaker":"","Result":"","Report":"","Pos":"","History":"","_id":{"$wrap":"$oid","v":45}}
+{"k":"0000000080","o":"0000000231","v":"001"}
+{"_id":46,"_uid":46,"_dt":1554757472576,"_s":"f381eb4e24e759bf2087a7380fc06bb5"}
+{"RAP":"B","GRP":"6","Sen":"21180","Callout":"8","Begin":"0700/08","End":"1900/08","FA":"446078","Name":"WULLENJOHN, MARY","COT":"1532","Speaker":"","Result":"","Report":"","Pos":"","History":"STBY/6","_id":{"$wrap":"$oid","v":46}}
+{"k":"0000000080","o":"0000000234","v":"001"}
+{"_id":47,"_uid":47,"_dt":1554757472576,"_s":"be79dd8a9fa79b36d78404b5df6191e1"}
+{"RAP":"C","GRP":"1","Sen":"14490","Callout":"1","Begin":"1200/08","End":"0000/09","FA":"150658","Name":"WORKMAN, CHARLOTTE","COT":"1624","Speaker":"","Result":"","Report":"","Pos":"","History":"5773/08","_id":{"$wrap":"$oid","v":47}}
+{"k":"0000000080","o":"0000000231","v":"001"}
+{"_id":48,"_uid":48,"_dt":1554757472576,"_s":"14afd9834b685ed0870fef3c5901a237"}
+{"RAP":"C","GRP":"1","Sen":"25622","Callout":"2","Begin":"1200/08","End":"0000/09","FA":"700888","Name":"PARSONS, JHETT","COT":"3358","Speaker":"","Result":"","Report":"","Pos":"","History":"21232/08","_id":{"$wrap":"$oid","v":48}}
+{"k":"0000000080","o":"0000000221","v":"001"}
+{"_id":49,"_uid":49,"_dt":1554757472576,"_s":"f344510dd69508eccb299eaed5671ae3"}
+{"RAP":"C","GRP":"1","Sen":"25982","Callout":"3","Begin":"1200/08","End":"2359/08","FA":"709800","Name":"TORPHY, KARA","COT":"1850","Speaker":"","Result":"","Report":"","Pos":"","History":"","_id":{"$wrap":"$oid","v":49}}
+{"k":"0000000080","o":"0000000228","v":"001"}
+{"_id":50,"_uid":50,"_dt":1554757472576,"_s":"66de1353336ef334df9238ee345b2ec7"}
+{"RAP":"C","GRP":"1","Sen":"26941","Callout":"4","Begin":"1200/08","End":"2359/08","FA":"724847","Name":"THIEME SKLAR, ROBYN","COT":"2008","Speaker":"","Result":"","Report":"","Pos":"","History":"","_id":{"$wrap":"$oid","v":50}}
+{"k":"0000000080","o":"0000000231","v":"001"}
+{"_id":51,"_uid":51,"_dt":1554757472577,"_s":"c5846e9e1480c83a73fdca098ac1d722"}
+{"RAP":"C","GRP":"2","Sen":"26942","Callout":"5","Begin":"1200/08","End":"0000/09","FA":"724061","Name":"STEMPORA, PAMELA","COT":"2419","Speaker":"","Result":"","Report":"","Pos":"","History":"STBY/6","_id":{"$wrap":"$oid","v":51}}
+{"k":"0000000080","o":"0000000242","v":"001"}
+{"_id":52,"_uid":52,"_dt":1554757472577,"_s":"b36e2b73538f645ba2456107e48ba26e"}
+{"RAP":"C","GRP":"3","Sen":"21092","Callout":"","Begin":"1200/08","End":"0000/09","FA":"462132","Name":"D AMBRA, VICTORIA","COT":"2353","Speaker":"","Result":"UNAVAILABLE","Report":"","Pos":"","History":"STBY/6","_id":{"$wrap":"$oid","v":52}}
+{"k":"0000000080","o":"0000000239","v":"001"}
+{"_id":53,"_uid":53,"_dt":1554757472577,"_s":"b4aea1b4bded7fbe199f9571a762ed37"}
+{"RAP":"C","GRP":"4","Sen":"18500","Callout":"","Begin":"1200/08","End":"0000/09","FA":"507218","Name":"JACKSON, TIMIYA","COT":"1532","Speaker":"","Result":"5765/08","Report":"2119/08","Pos":"01","History":"","_id":{"$wrap":"$oid","v":53}}
+{"k":"0000000080","o":"0000000225","v":"001"}
+{"_id":54,"_uid":54,"_dt":1554757472577,"_s":"4cbefb89bf4f6ee20657a9bf849e606d"}
+{"RAP":"D","GRP":"1","Sen":"18843","Callout":"1","Begin":"1600/08","End":"2359/08","FA":"349142","Name":"MCLEOD, JENNIFER","COT":"2432","Speaker":"","Result":"","Report":"","Pos":"","History":"","_id":{"$wrap":"$oid","v":54}}
+{"k":"0000000080","o":"0000000224","v":"001"}
+{"_id":55,"_uid":55,"_dt":1554757472577,"_s":"b5c34ee3a7aa11537f8b21f8cfc2efda"}
+{"RAP":"D","GRP":"1","Sen":"26031","Callout":"2","Begin":"1600/08","End":"2359/08","FA":"701000","Name":"HERRING, AUDREY","COT":"1515","Speaker":"","Result":"","Report":"","Pos":"","History":"","_id":{"$wrap":"$oid","v":55}}
+{"k":"0000000080","o":"0000000223","v":"001"}
+{"_id":56,"_uid":56,"_dt":1554757472577,"_s":"2a10c1cf26898a6e9b2fccf77dd090a6"}
+{"RAP":"D","GRP":"2","Sen":"18415","Callout":"3","Begin":"1600/08","End":"0400/09","FA":"544018","Name":"TOWNER, BROOKE","COT":"1530","Speaker":"","Result":"","Report":"","Pos":"","History":"","_id":{"$wrap":"$oid","v":56}}
+{"k":"0000000080","o":"0000000213","v":"001"}
+{"_id":57,"_uid":57,"_dt":1554757472578,"_s":"e573e3d9f2f2aef89c5bc522bba09c96"}
+{"RAP":"","GRP":"1","Sen":"21167","Callout":"1","Begin":"","End":"","FA":"178756","Name":"WHITEHURST, WILLIAM","COT":"1949","Speaker":"","Result":"","Report":"","Pos":"","History":"","_id":{"$wrap":"$oid","v":57}}
+{"k":"0000000080","o":"0000000208","v":"001"}
+{"_id":58,"_uid":58,"_dt":1554757472578,"_s":"85c7c72cce5ae388cf4b3f85ba389889"}
+{"RAP":"","GRP":"1","Sen":"25340","Callout":"2","Begin":"","End":"","FA":"51660","Name":"MCNEILL, MARIAH","COT":"1330","Speaker":"","Result":"","Report":"","Pos":"","History":"","_id":{"$wrap":"$oid","v":58}}
+{"k":"0000000080","o":"0000000209","v":"001"}
+{"_id":59,"_uid":59,"_dt":1554757472578,"_s":"d61c8bbfd0b63c831714d7ff6a1112bb"}
+{"RAP":"","GRP":"1","Sen":"25390","Callout":"3","Begin":"","End":"","FA":"53508","Name":"HEDLUND, CHELSEA","COT":"2138","Speaker":"","Result":"","Report":"","Pos":"","History":"","_id":{"$wrap":"$oid","v":59}}
+{"k":"0000000080","o":"0000000214","v":"001"}
+{"_id":60,"_uid":60,"_dt":1554757472578,"_s":"fb29b5f054babe4024c40245634c07e5"}
+{"RAP":"","GRP":"1","Sen":"25583","Callout":"4","Begin":"","End":"","FA":"695440","Name":"PANYATHEERA, TANAWAT","COT":"3832","Speaker":"","Result":"","Report":"","Pos":"","History":"","_id":{"$wrap":"$oid","v":60}}
+{"k":"0000000080","o":"0000000207","v":"001"}
+{"_id":61,"_uid":61,"_dt":1554757472578,"_s":"2281b5b6170bb783a870e15411fb81bc"}
+{"RAP":"","GRP":"1","Sen":"25637","Callout":"5","Begin":"","End":"","FA":"705260","Name":"MOORE, ALANNA","COT":"2752","Speaker":"","Result":"","Report":"","Pos":"","History":"","_id":{"$wrap":"$oid","v":61}}
+{"k":"0000000080","o":"0000000207","v":"001"}
+{"_id":62,"_uid":62,"_dt":1554757472578,"_s":"d015ba5b788b8967bebf5aa93b1504fb"}
+{"RAP":"","GRP":"1","Sen":"25637","Callout":"6","Begin":"","End":"","FA":"705260","Name":"MOORE, ALANNA","COT":"2752","Speaker":"","Result":"","Report":"","Pos":"","History":"","_id":{"$wrap":"$oid","v":62}}
+{"k":"0000000080","o":"0000000207","v":"001"}
+{"_id":63,"_uid":63,"_dt":1554757472579,"_s":"626fedb9d196e0c96eeef65599df4fb7"}
+{"RAP":"","GRP":"1","Sen":"25881","Callout":"7","Begin":"","End":"","FA":"704380","Name":"WHITNEY, SARA","COT":"2821","Speaker":"","Result":"","Report":"","Pos":"","History":"","_id":{"$wrap":"$oid","v":63}}
+{"k":"0000000080","o":"0000000229","v":"001"}
+{"_id":64,"_uid":64,"_dt":1554757472579,"_s":"325fd1c88dffcd9b761d711bee439c19"}
+{"RAP":"","GRP":"1","Sen":"25923","Callout":"","Begin":"","End":"","FA":"706324","Name":"RODRIGUEZ COMULADA, AMBAR","COT":"2605","Speaker":"","Result":"UNAVAILABLE","Report":"","Pos":"","History":"","_id":{"$wrap":"$oid","v":64}}
+{"k":"0000000080","o":"0000000210","v":"001"}
+{"_id":65,"_uid":65,"_dt":1554757472579,"_s":"617df53fd24ad7fef1b3929df15e9858"}
+{"RAP":"","GRP":"1","Sen":"25966","Callout":"8","Begin":"","End":"","FA":"702404","Name":"LOUALLEN, BAILEY","COT":"2901","Speaker":"","Result":"","Report":"","Pos":"","History":"","_id":{"$wrap":"$oid","v":65}}
+{"k":"0000000080","o":"0000000210","v":"001"}
+{"_id":66,"_uid":66,"_dt":1554757472579,"_s":"92bf99109cc5e92f727c8e5beb6d1954"}
+{"RAP":"","GRP":"1","Sen":"25987","Callout":"9","Begin":"","End":"","FA":"708522","Name":"HARVEY, MICHELLE","COT":"3253","Speaker":"","Result":"","Report":"","Pos":"","History":"","_id":{"$wrap":"$oid","v":66}}
+{"k":"0000000080","o":"0000000212","v":"001"}
+{"_id":67,"_uid":67,"_dt":1554757472580,"_s":"75d722481b4068e1af6029d19e2b96d0"}
+{"RAP":"","GRP":"1","Sen":"26932","Callout":"10","Begin":"","End":"","FA":"713559","Name":"BRUMAGIM, ABIGAIL","COT":"2631","Speaker":"","Result":"","Report":"","Pos":"","History":"","_id":{"$wrap":"$oid","v":67}}
+{"k":"0000000080","o":"0000000213","v":"001"}
+{"_id":68,"_uid":68,"_dt":1554757472580,"_s":"84bcfad412098d95e40840f585143b87"}
+{"RAP":"","GRP":"1","Sen":"26940","Callout":"11","Begin":"","End":"","FA":"724229","Name":"PATTERSON, KRISTEN","COT":"2636","Speaker":"","Result":"","Report":"","Pos":"","History":"","_id":{"$wrap":"$oid","v":68}}
+{"k":"0000000080","o":"0000000209","v":"001"}
+{"_id":69,"_uid":69,"_dt":1554757472580,"_s":"2a81f343cd206ac46911c5da3d878852"}
+{"RAP":"","GRP":"2","Sen":"20191","Callout":"12","Begin":"","End":"","FA":"525871","Name":"SHANKS, THOMAS","COT":"2558","Speaker":"","Result":"","Report":"","Pos":"","History":"","_id":{"$wrap":"$oid","v":69}}
+{"k":"0000000080","o":"0000000209","v":"001"}
+{"_id":70,"_uid":70,"_dt":1554757472580,"_s":"e9934a7ace3f12221f1189197569e3c7"}
+{"RAP":"","GRP":"2","Sen":"20202","Callout":"13","Begin":"","End":"","FA":"454699","Name":"HEREDIA, RANDY","COT":"8626","Speaker":"","Result":"","Report":"","Pos":"","History":"","_id":{"$wrap":"$oid","v":70}}
+{"k":"0000000080","o":"0000000212","v":"001"}
+{"_id":71,"_uid":71,"_dt":1554757472580,"_s":"4cde594aff48a8a3d0ddd7d63d2d8b92"}
+{"RAP":"","GRP":"2","Sen":"21300","Callout":"14","Begin":"","End":"","FA":"353850","Name":"CAMPBELL, ANTONIO","COT":"2056","Speaker":"","Result":"","Report":"","Pos":"","History":"","_id":{"$wrap":"$oid","v":71}}
+{"k":"0000000080","o":"0000000209","v":"001"}
+{"_id":72,"_uid":72,"_dt":1554757472580,"_s":"b632f3f5a7ddab6b289083dc8fe6639f"}
+{"RAP":"","GRP":"2","Sen":"25611","Callout":"15","Begin":"","End":"","FA":"687200","Name":"CLAYTON, CASEY","COT":"3310","Speaker":"","Result":"","Report":"","Pos":"","History":"","_id":{"$wrap":"$oid","v":72}}
+{"k":"0000000080","o":"0000000216","v":"001"}
+{"_id":73,"_uid":73,"_dt":1554757472581,"_s":"5ea6cfc28435ade8fb3c5b63816222f6"}
+{"RAP":"","GRP":"2","Sen":"25936","Callout":"","Begin":"","End":"","FA":"703595","Name":"DYKES, JANEI","COT":"2616","Speaker":"","Result":"UNAVAILABLE","Report":"","Pos":"","History":"","_id":{"$wrap":"$oid","v":73}}
+{"k":"0000000080","o":"0000000212","v":"001"}
+{"_id":74,"_uid":74,"_dt":1554757472581,"_s":"eb56492218955e06115c30e7e2d42c73"}
+{"RAP":"","GRP":"2","Sen":"25972","Callout":"16","Begin":"","End":"","FA":"704887","Name":"WILLIAMS, HEATHER","COT":"1752","Speaker":"","Result":"","Report":"","Pos":"","History":"","_id":{"$wrap":"$oid","v":74}}
+{"k":"0000000080","o":"0000000207","v":"001"}
+{"_id":75,"_uid":75,"_dt":1554757472581,"_s":"bbbfdd67d2c7c409383bff24ba41d136"}
+{"RAP":"","GRP":"2","Sen":"25974","Callout":"17","Begin":"","End":"","FA":"703593","Name":"ESTEP, EMILY","COT":"3505","Speaker":"","Result":"","Report":"","Pos":"","History":"","_id":{"$wrap":"$oid","v":75}}
+{"k":"0000000080","o":"0000000208","v":"001"}
+{"_id":76,"_uid":76,"_dt":1554757472581,"_s":"cbc08e8e4cff44817686863defecfc99"}
+{"RAP":"","GRP":"2","Sen":"26977","Callout":"18","Begin":"","End":"","FA":"723384","Name":"PARKS, JARROD","COT":"3652","Speaker":"","Result":"","Report":"","Pos":"","History":"","_id":{"$wrap":"$oid","v":76}}
+{"k":"0000000080","o":"0000000215","v":"001"}
+{"_id":77,"_uid":77,"_dt":1554757472581,"_s":"6a747378c4b8717499e450bdff467f80"}
+{"RAP":"","GRP":"3","Sen":"25387","Callout":"19","Begin":"","End":"","FA":"55690","Name":"EICHENBERGER, HEATHER","COT":"2026","Speaker":"","Result":"","Report":"","Pos":"","History":"","_id":{"$wrap":"$oid","v":77}}
+{"k":"0000000080","o":"0000000210","v":"001"}
+{"_id":78,"_uid":78,"_dt":1554757472582,"_s":"0e68e9ebdd369971bc8f12941769758f"}
+{"RAP":"","GRP":"3","Sen":"25454","Callout":"20","Begin":"","End":"","FA":"603474","Name":"RAINES, WHITNEY","COT":"3154","Speaker":"","Result":"","Report":"","Pos":"","History":"","_id":{"$wrap":"$oid","v":78}}
+{"k":"0000000080","o":"0000000207","v":"001"}
+{"_id":79,"_uid":79,"_dt":1554757472582,"_s":"bc90f6aeb21c493da4786e64450e4561"}
+{"RAP":"","GRP":"3","Sen":"25629","Callout":"21","Begin":"","End":"","FA":"676113","Name":"NEWBY, KELLY","COT":"2001","Speaker":"","Result":"","Report":"","Pos":"","History":"","_id":{"$wrap":"$oid","v":79}}
+{"k":"0000000080","o":"0000000210","v":"001"}
+{"_id":80,"_uid":80,"_dt":1554757472582,"_s":"c06108f669d22709171b3ba30f9cd980"}
+{"RAP":"","GRP":"3","Sen":"25630","Callout":"22","Begin":"","End":"","FA":"702435","Name":"THOMAS, KAITLYN","COT":"2126","Speaker":"","Result":"","Report":"","Pos":"","History":"","_id":{"$wrap":"$oid","v":80}}
+{"k":"0000000080","o":"0000000211","v":"001"}
+{"_id":81,"_uid":81,"_dt":1554757472582,"_s":"57185dcb15fc1dc59921af368e357f4b"}
+{"RAP":"","GRP":"3","Sen":"25884","Callout":"23","Begin":"","End":"","FA":"703615","Name":"GALVIN, MARGARET","COT":"1400","Speaker":"","Result":"","Report":"","Pos":"","History":"","_id":{"$wrap":"$oid","v":81}}
+{"k":"0000000080","o":"0000000207","v":"001"}
+{"_id":82,"_uid":82,"_dt":1554757472582,"_s":"dde90335820766bb8edcbecc7ab57b35"}
+{"RAP":"","GRP":"3","Sen":"26959","Callout":"24","Begin":"","End":"","FA":"766697","Name":"ROACH, BRITT","COT":"1954","Speaker":"","Result":"","Report":"","Pos":"","History":"","_id":{"$wrap":"$oid","v":82}}
+{"k":"0000000080","o":"0000000212","v":"001"}
+{"_id":83,"_uid":83,"_dt":1554757472582,"_s":"d6b19bbf5771dc9694bd1a00454f8707"}
+{"RAP":"","GRP":"3","Sen":"27002","Callout":"25","Begin":"","End":"","FA":"724672","Name":"TURNER, DARCENTIA","COT":"2033","Speaker":"","Result":"","Report":"","Pos":"","History":"","_id":{"$wrap":"$oid","v":83}}
+{"k":"0000000080","o":"0000000208","v":"001"}
+{"_id":84,"_uid":84,"_dt":1554757472583,"_s":"1e0ae226a92c8e39985991576aee5ab3"}
+{"RAP":"","GRP":"4","Sen":"25455","Callout":"26","Begin":"","End":"","FA":"598103","Name":"PARNELL, KERI","COT":"1030","Speaker":"","Result":"","Report":"","Pos":"","History":"","_id":{"$wrap":"$oid","v":84}}
+{"k":"0000000080","o":"0000000177","v":"001"}
+{"_id":85,"_uid":85,"_dt":1554760655038,"_s":"8bd953629452de2aa6705533f191750e"}
+{"RAP":"","GRP":"","Sen":"","Callout":"","Begin":"","End":"","FA":"","Name":"","COT":"","Speaker":"","Result":"","Report":"","Pos":"","History":"","_id":{"$wrap":"$oid","v":85}}
+{"k":"0000000080","o":"0000000177","v":"001"}
+{"_id":86,"_uid":86,"_dt":1554760655039,"_s":"f6e4597698050fee52271bb7ebf0a38b"}
+{"RAP":"","GRP":"","Sen":"","Callout":"","Begin":"","End":"","FA":"","Name":"","COT":"","Speaker":"","Result":"","Report":"","Pos":"","History":"","_id":{"$wrap":"$oid","v":86}}
+{"k":"0000000080","o":"0000000238","v":"001"}
+{"_id":87,"_uid":87,"_dt":1554760655039,"_s":"d4bd3e09d3f5d0f39def48b9b2c0d518"}
+{"RAP":"C*","GRP":"1","Sen":"19863","Callout":"","Begin":"1200/07","End":"0000/08","FA":"151075","Name":"ALMENARA, SERGIO","COT":"0743","Speaker":"SP","Result":"UNAVAILABLE","Report":"","Pos":"","History":"","_id":{"$wrap":"$oid","v":87}}
+{"k":"0000000080","o":"0000000237","v":"001"}
+{"_id":88,"_uid":88,"_dt":1554760655039,"_s":"96616cbdd25a9d37deb4548cd6f4617e"}
+{"RAP":"C*","GRP":"1","Sen":"25399","Callout":"","Begin":"1200/07","End":"0000/08","FA":"54769","Name":"VASILEVA, VIKTORIA","COT":"1238","Speaker":"","Result":"UNAVAILABLE","Report":"","Pos":"","History":"","_id":{"$wrap":"$oid","v":88}}
+{"k":"0000000080","o":"0000000233","v":"001"}
+{"_id":89,"_uid":89,"_dt":1554760655040,"_s":"833d79d12f31aa0f3649dae897aa2e5a"}
+{"RAP":"C*","GRP":"1","Sen":"25844","Callout":"","Begin":"1200/07","End":"0000/08","FA":"704882","Name":"MILLS, HOLLEE","COT":"2817","Speaker":"","Result":"UNAVAILABLE","Report":"","Pos":"","History":"","_id":{"$wrap":"$oid","v":89}}
+{"k":"0000000080","o":"0000000234","v":"001"}
+{"_id":90,"_uid":90,"_dt":1554760655040,"_s":"cef87da4cfe9f88f2fb46fb7423775ff"}
+{"RAP":"C*","GRP":"1","Sen":"25980","Callout":"","Begin":"1200/07","End":"0000/08","FA":"703856","Name":"HARRIS, AMELIA","COT":"1536","Speaker":"","Result":"UNAVAILABLE","Report":"","Pos":"","History":"","_id":{"$wrap":"$oid","v":90}}
+{"k":"0000000080","o":"0000000237","v":"001"}
+{"_id":91,"_uid":91,"_dt":1554760655040,"_s":"6ebee49aa9f6e81f66ff2664fc16640d"}
+{"RAP":"C*","GRP":"1","Sen":"26988","Callout":"","Begin":"1200/07","End":"0000/08","FA":"724675","Name":"RUIZ, CHRISTOPHER","COT":"1909","Speaker":"","Result":"UNAVAILABLE","Report":"","Pos":"","History":"","_id":{"$wrap":"$oid","v":91}}
+{"k":"0000000080","o":"0000000240","v":"001"}
+{"_id":92,"_uid":92,"_dt":1554760655040,"_s":"c6422422e0a7ee6f33fb5b116f3aeb34"}
+{"RAP":"C*","GRP":"1","Sen":"26995","Callout":"","Begin":"1200/07","End":"0000/08","FA":"723831","Name":"TORRES BURGOS, ROGER","COT":"4013","Speaker":"","Result":"UNAVAILABLE","Report":"","Pos":"","History":"","_id":{"$wrap":"$oid","v":92}}
+{"k":"0000000080","o":"0000000244","v":"001"}
+{"_id":93,"_uid":93,"_dt":1554760655040,"_s":"002ef39f105ee6c636f7a1f4544ee2d6"}
+{"RAP":"D*","GRP":"1","Sen":"26071","Callout":"","Begin":"1600/07","End":"0400/08","FA":"705704","Name":"LABRIOLA, MICHELLE","COT":"1311","Speaker":"","Result":"31696/08","Report":"1657/08","Pos":"01","History":"","_id":{"$wrap":"$oid","v":93}}
+{"k":"0000000080","o":"0000000237","v":"001"}
+{"_id":94,"_uid":94,"_dt":1554760655040,"_s":"a9018ea60b160dcfc40c43d672be40e9"}
+{"RAP":"A","GRP":"1","Sen":"19863","Callout":"","Begin":"0300/08","End":"1500/08","FA":"151075","Name":"ALMENARA, SERGIO","COT":"0743","Speaker":"SP","Result":"UNAVAILABLE","Report":"","Pos":"","History":"","_id":{"$wrap":"$oid","v":94}}
+{"k":"0000000080","o":"0000000244","v":"001"}
+{"_id":95,"_uid":95,"_dt":1554760655041,"_s":"2e3d88a660b175d1e8fe0202e5271bc7"}
+{"RAP":"A","GRP":"1","Sen":"23076","Callout":"","Begin":"0300/08","End":"1500/08","FA":"776125","Name":"TRAINOR, KATHERINE","COT":"7553","Speaker":"","Result":"UNAVAILABLE","Report":"","Pos":"","History":"5714/08","_id":{"$wrap":"$oid","v":95}}
+{"k":"0000000080","o":"0000000234","v":"001"}
+{"_id":96,"_uid":96,"_dt":1554760655041,"_s":"355737306271133b1db43fa6552247e4"}
+{"RAP":"A","GRP":"1","Sen":"23179","Callout":"","Begin":"0300/08","End":"1500/08","FA":"777496","Name":"RUSSELL, LAUREN","COT":"0356","Speaker":"","Result":"UNAVAILABLE","Report":"","Pos":"","History":"","_id":{"$wrap":"$oid","v":96}}
+{"k":"0000000080","o":"0000000242","v":"001"}
+{"_id":97,"_uid":97,"_dt":1554760655041,"_s":"cbd21167544d36a215628a1a63bc1698"}
+{"RAP":"A","GRP":"1","Sen":"24444","Callout":"","Begin":"0300/08","End":"1500/08","FA":"823503","Name":"SCHWISOW, TYLER","COT":"2000","Speaker":"","Result":"UNAVAILABLE","Report":"","Pos":"","History":"19472/08","_id":{"$wrap":"$oid","v":97}}
+{"k":"0000000080","o":"0000000244","v":"001"}
+{"_id":98,"_uid":98,"_dt":1554760655041,"_s":"740f4648fa97b15544caf9e3bcbedfcf"}
+{"RAP":"A","GRP":"1","Sen":"25399","Callout":"","Begin":"0300/08","End":"1500/08","FA":"54769","Name":"VASILEVA, VIKTORIA","COT":"1238","Speaker":"","Result":"UNAVAILABLE","Report":"","Pos":"","History":"31639/08","_id":{"$wrap":"$oid","v":98}}
+{"k":"0000000080","o":"0000000245","v":"001"}
+{"_id":99,"_uid":99,"_dt":1554760655042,"_s":"d46cab5ccfd127c2564d52bfb11fb23a"}
+{"RAP":"A","GRP":"1","Sen":"25633","Callout":"","Begin":"0300/08","End":"1500/08","FA":"700365","Name":"MCELROY, CHARLOTTE","COT":"2628","Speaker":"","Result":"UNAVAILABLE","Report":"","Pos":"","History":"31586/08","_id":{"$wrap":"$oid","v":99}}
+{"k":"0000000082","o":"0000000235","v":"001"}
+{"_id":100,"_uid":100,"_dt":1554760655042,"_s":"a9d5fd3dd3b9fa5dbdbf6f3d05d993e2"}
+{"RAP":"A","GRP":"1","Sen":"25646","Callout":"","Begin":"0300/08","End":"1500/08","FA":"700363","Name":"CORBITT, CLAIRE","COT":"2203","Speaker":"","Result":"UNAVAILABLE","Report":"","Pos":"","History":"","_id":{"$wrap":"$oid","v":100}}
+{"k":"0000000082","o":"0000000240","v":"001"}
+{"_id":101,"_uid":101,"_dt":1554760655042,"_s":"0adea8556020e266fd4473fb33f2c08a"}
+{"RAP":"A","GRP":"1","Sen":"25847","Callout":"","Begin":"0300/08","End":"1500/08","FA":"702411","Name":"MYLES, HANNA","COT":"1027","Speaker":"","Result":"UNAVAILABLE","Report":"","Pos":"","History":"31588/08","_id":{"$wrap":"$oid","v":101}}
+{"k":"0000000082","o":"0000000244","v":"001"}
+{"_id":102,"_uid":102,"_dt":1554760655042,"_s":"c372384bec6d8826404eaee6ac4909a6"}
+{"RAP":"A","GRP":"1","Sen":"25870","Callout":"","Begin":"0300/08","End":"1500/08","FA":"704866","Name":"ONEAL, CHARLOTTE","COT":"3328","Speaker":"","Result":"UNAVAILABLE","Report":"","Pos":"","History":"31587/08","_id":{"$wrap":"$oid","v":102}}
+{"k":"0000000082","o":"0000000243","v":"001"}
+{"_id":103,"_uid":103,"_dt":1554760655043,"_s":"a4454e30b021ee2a6aa5a3a9a148e079"}
+{"RAP":"A","GRP":"1","Sen":"25880","Callout":"","Begin":"0300/08","End":"1500/08","FA":"704730","Name":"ASCHE, PATRICIA","COT":"2813","Speaker":"","Result":"UNAVAILABLE","Report":"","Pos":"","History":"31586/08","_id":{"$wrap":"$oid","v":103}}
+{"k":"0000000082","o":"0000000237","v":"001"}
+{"_id":104,"_uid":104,"_dt":1554760655043,"_s":"f780ec6673c3b4fd7fc1ea25fc2ff785"}
+{"RAP":"A","GRP":"1","Sen":"25887","Callout":"","Begin":"0300/08","End":"1500/08","FA":"706306","Name":"VICK, CODY","COT":"2847","Speaker":"","Result":"UNAVAILABLE","Report":"","Pos":"","History":"5812/08","_id":{"$wrap":"$oid","v":104}}
+{"k":"0000000082","o":"0000000238","v":"001"}
+{"_id":105,"_uid":105,"_dt":1554760655043,"_s":"8d70511941307c3766718fa5bf6e4534"}
+{"RAP":"A","GRP":"1","Sen":"25915","Callout":"","Begin":"0319/08","End":"1500/08","FA":"702378","Name":"LIU, YIJIA","COT":"2816","Speaker":"","Result":"UNAVAILABLE","Report":"","Pos":"","History":"31586/08","_id":{"$wrap":"$oid","v":105}}
+{"k":"0000000082","o":"0000000239","v":"001"}
+{"_id":106,"_uid":106,"_dt":1554760655043,"_s":"821025524063e4e7d73da5a23e3aecf0"}
+{"RAP":"A","GRP":"1","Sen":"25964","Callout":"","Begin":"0300/08","End":"1500/08","FA":"702459","Name":"RIVERS, CODY","COT":"3820","Speaker":"","Result":"UNAVAILABLE","Report":"","Pos":"","History":"5723/08","_id":{"$wrap":"$oid","v":106}}
+{"k":"0000000082","o":"0000000234","v":"001"}
+{"_id":107,"_uid":107,"_dt":1554760655043,"_s":"ef42adedd80d6e72babb7a2007a67757"}
+{"RAP":"A","GRP":"1","Sen":"25980","Callout":"","Begin":"0300/08","End":"1500/08","FA":"703856","Name":"HARRIS, AMELIA","COT":"1015","Speaker":"","Result":"UNAVAILABLE","Report":"","Pos":"","History":"","_id":{"$wrap":"$oid","v":107}}
+{"k":"0000000082","o":"0000000241","v":"001"}
+{"_id":108,"_uid":108,"_dt":1554760655043,"_s":"ccd451641a9460facd45775a1bd03e3f"}
+{"RAP":"A","GRP":"1","Sen":"26028","Callout":"","Begin":"0300/08","End":"1500/08","FA":"707060","Name":"OLSON, AMANDA","COT":"2233","Speaker":"","Result":"UNAVAILABLE","Report":"","Pos":"","History":"21214/08","_id":{"$wrap":"$oid","v":108}}
+{"k":"0000000082","o":"0000000245","v":"001"}
+{"_id":109,"_uid":109,"_dt":1554760655043,"_s":"8e94cd9428c6a90eef743d6027c42143"}
+{"RAP":"A","GRP":"1","Sen":"26034","Callout":"","Begin":"0300/08","End":"1500/08","FA":"704854","Name":"ROTHFIELD, NICOLE","COT":"2345","Speaker":"","Result":"UNAVAILABLE","Report":"","Pos":"","History":"31586/08","_id":{"$wrap":"$oid","v":109}}
+{"k":"0000000082","o":"0000000241","v":"001"}
+{"_id":110,"_uid":110,"_dt":1554760655044,"_s":"d59fcf82c5e3488ada55151add47545c"}
+{"RAP":"A","GRP":"1","Sen":"26299","Callout":"","Begin":"0300/08","End":"1500/08","FA":"707440","Name":"THOMAS, ELLEN","COT":"1958","Speaker":"","Result":"UNAVAILABLE","Report":"","Pos":"","History":"31587/08","_id":{"$wrap":"$oid","v":110}}
+{"k":"0000000082","o":"0000000236","v":"001"}
+{"_id":111,"_uid":111,"_dt":1554760655044,"_s":"3bbbab307e087d688907e2e4036a8a00"}
+{"RAP":"A","GRP":"1","Sen":"26734","Callout":"","Begin":"0300/08","End":"1500/08","FA":"714945","Name":"HOWELL, STEFANIE","COT":"1609","Speaker":"","Result":"UNAVAILABLE","Report":"","Pos":"","History":"","_id":{"$wrap":"$oid","v":111}}
+{"k":"0000000082","o":"0000000237","v":"001"}
+{"_id":112,"_uid":112,"_dt":1554760655044,"_s":"2e88c2789dbf127bfdb533c4c8d4e9c0"}
+{"RAP":"A","GRP":"1","Sen":"26988","Callout":"","Begin":"0300/08","End":"1500/08","FA":"724675","Name":"RUIZ, CHRISTOPHER","COT":"1319","Speaker":"","Result":"UNAVAILABLE","Report":"","Pos":"","History":"","_id":{"$wrap":"$oid","v":112}}
+{"k":"0000000082","o":"0000000235","v":"001"}
+{"_id":113,"_uid":113,"_dt":1554760655044,"_s":"e845bfce87732b583485cb1a5e466481"}
+{"RAP":"A","GRP":"2","Sen":"25842","Callout":"","Begin":"0300/08","End":"1500/08","FA":"703322","Name":"RIDDLE, KATHRYN","COT":"0840","Speaker":"","Result":"UNAVAILABLE","Report":"","Pos":"","History":"","_id":{"$wrap":"$oid","v":113}}
+{"k":"0000000082","o":"0000000234","v":"001"}
+{"_id":114,"_uid":114,"_dt":1554760655044,"_s":"ad26157630dbcddfd6a8058a6b61f3e1"}
+{"RAP":"A","GRP":"4","Sen":"23126","Callout":"","Begin":"0300/08","End":"1500/08","FA":"776940","Name":"YEUNG, PUI MAN","COT":"1832","Speaker":"","Result":"UNAVAILABLE","Report":"","Pos":"","History":"","_id":{"$wrap":"$oid","v":114}}
+{"k":"0000000082","o":"0000000238","v":"001"}
+{"_id":115,"_uid":115,"_dt":1554760655044,"_s":"1a5b5f16f1e53cd81a2e6ff3fa18e59c"}
+{"RAP":"A","GRP":"4","Sen":"23364","Callout":"","Begin":"0300/08","End":"1500/08","FA":"767238","Name":"WOODWARD, SAMANTHA","COT":"1747","Speaker":"","Result":"UNAVAILABLE","Report":"","Pos":"","History":"","_id":{"$wrap":"$oid","v":115}}
+{"k":"0000000082","o":"0000000243","v":"001"}
+{"_id":116,"_uid":116,"_dt":1554760655044,"_s":"48f39ef24066aa526a80b478d265ec6d"}
+{"RAP":"A","GRP":"4","Sen":"25331","Callout":"","Begin":"0300/08","End":"1500/08","FA":"51607","Name":"MC DANIEL, KAITLIN","COT":"0515","Speaker":"","Result":"UNAVAILABLE","Report":"","Pos":"","History":"STBY/6","_id":{"$wrap":"$oid","v":116}}
+{"k":"0000000082","o":"0000000236","v":"001"}
+{"_id":117,"_uid":117,"_dt":1554760655045,"_s":"63c62dd45039aa4107a0cba7d5f1bbfc"}
+{"RAP":"A","GRP":"5","Sen":"23154","Callout":"","Begin":"0300/08","End":"1500/08","FA":"777479","Name":"LE DUC, MICHELLE","COT":"1026","Speaker":"","Result":"UNAVAILABLE","Report":"","Pos":"","History":"","_id":{"$wrap":"$oid","v":117}}
+{"k":"0000000082","o":"0000000241","v":"001"}
+{"_id":118,"_uid":118,"_dt":1554760655045,"_s":"64b9108821f11517fbebbbf1de80704f"}
+{"RAP":"A","GRP":"5","Sen":"25364","Callout":"","Begin":"0300/08","End":"1500/08","FA":"52845","Name":"BECERRA, ANDRES","COT":"3357","Speaker":"","Result":"UNAVAILABLE","Report":"","Pos":"","History":"5813/08","_id":{"$wrap":"$oid","v":118}}
+{"k":"0000000082","o":"0000000233","v":"001"}
+{"_id":119,"_uid":119,"_dt":1554760655045,"_s":"f706120a279c9ff71e7960c241bbe88f"}
+{"RAP":"A","GRP":"6","Sen":"25346","Callout":"","Begin":"0300/08","End":"1500/08","FA":"51646","Name":"BODIKER, ERICA","COT":"1543","Speaker":"","Result":"UNAVAILABLE","Report":"","Pos":"","History":"","_id":{"$wrap":"$oid","v":119}}
+{"k":"0000000082","o":"0000000245","v":"001"}
+{"_id":120,"_uid":120,"_dt":1554760655045,"_s":"cb57be2db8138cabb512aa32c6a65f11"}
+{"RAP":"B","GRP":"1","Sen":"19202","Callout":"","Begin":"0700/08","End":"1900/08","FA":"115354","Name":"AMBROSINO, BENJAMIN","COT":"2652","Speaker":"","Result":"31696/08","Report":"1657/08","Pos":"04","History":"","_id":{"$wrap":"$oid","v":120}}
+{"k":"0000000082","o":"0000000222","v":"001"}
+{"_id":121,"_uid":121,"_dt":1554760655045,"_s":"c839f20407cd62b8aed890e1e93ba8cc"}
+{"RAP":"B","GRP":"1","Sen":"23189","Callout":"1","Begin":"0700/08","End":"1900/08","FA":"343830","Name":"HILL, LURAIN","COT":"2653","Speaker":"","Result":"","Report":"","Pos":"","History":"","_id":{"$wrap":"$oid","v":121}}
+{"k":"0000000082","o":"0000000226","v":"001"}
+{"_id":122,"_uid":122,"_dt":1554760655045,"_s":"1d020dce2f2e4d0409dff0e94b273679"}
+{"RAP":"B","GRP":"1","Sen":"25690","Callout":"2","Begin":"0700/08","End":"1900/08","FA":"660777","Name":"ESHELMAN, HANNAH","COT":"1129","Speaker":"","Result":"","Report":"","Pos":"","History":"","_id":{"$wrap":"$oid","v":122}}
+{"k":"0000000082","o":"0000000223","v":"001"}
+{"_id":123,"_uid":123,"_dt":1554760655045,"_s":"249b84190eccb4b73755c236d89d6c0e"}
+{"RAP":"B","GRP":"1","Sen":"25844","Callout":"3","Begin":"0700/08","End":"1900/08","FA":"704882","Name":"MILLS, HOLLEE","COT":"2817","Speaker":"","Result":"","Report":"","Pos":"","History":"","_id":{"$wrap":"$oid","v":123}}
+{"k":"0000000082","o":"0000000244","v":"001"}
+{"_id":124,"_uid":124,"_dt":1554760655045,"_s":"e092da3017d1841acb30d3b3e4355508"}
+{"RAP":"B","GRP":"1","Sen":"26071","Callout":"","Begin":"0700/08","End":"1900/08","FA":"705704","Name":"LABRIOLA, MICHELLE","COT":"1311","Speaker":"","Result":"31696/08","Report":"1657/08","Pos":"01","History":"","_id":{"$wrap":"$oid","v":124}}
+{"k":"0000000082","o":"0000000223","v":"001"}
+{"_id":125,"_uid":125,"_dt":1554760655046,"_s":"fdc17b761098c2e844fe3d842802c9ea"}
+{"RAP":"B","GRP":"1","Sen":"26097","Callout":"4","Begin":"0700/08","End":"1900/08","FA":"708510","Name":"AKERS, ALYSSA","COT":"2240","Speaker":"","Result":"","Report":"","Pos":"","History":"","_id":{"$wrap":"$oid","v":125}}
+{"k":"0000000082","o":"0000000227","v":"001"}
+{"_id":126,"_uid":126,"_dt":1554760655046,"_s":"5d2f8fba53a9dabb16d3400b3b0b1b00"}
+{"RAP":"B","GRP":"1","Sen":"26735","Callout":"5","Begin":"0700/08","End":"1900/08","FA":"718584","Name":"SULLIVAN, SHANNON","COT":"2504","Speaker":"","Result":"","Report":"","Pos":"","History":"","_id":{"$wrap":"$oid","v":126}}
+{"k":"0000000082","o":"0000000231","v":"001"}
+{"_id":127,"_uid":127,"_dt":1554760655046,"_s":"d798f6a9abef5b6bf1dc62526692403d"}
+{"RAP":"B","GRP":"3","Sen":"21483","Callout":"6","Begin":"0700/08","End":"1900/08","FA":"428694","Name":"ALFINI, CHRISTY","COT":"1515","Speaker":"","Result":"","Report":"","Pos":"","History":"STBY/6","_id":{"$wrap":"$oid","v":127}}
+{"k":"0000000082","o":"0000000223","v":"001"}
+{"_id":128,"_uid":128,"_dt":1554760655046,"_s":"61c91af81994be29621b19e0981af247"}
+{"RAP":"B","GRP":"5","Sen":"18430","Callout":"7","Begin":"0700/08","End":"1900/08","FA":"109042","Name":"KARCHER, LISA","COT":"1000","Speaker":"","Result":"","Report":"","Pos":"","History":"","_id":{"$wrap":"$oid","v":128}}
+{"k":"0000000082","o":"0000000232","v":"001"}
+{"_id":129,"_uid":129,"_dt":1554760655046,"_s":"4b0e40224ea12ac6f3922ba118550b02"}
+{"RAP":"B","GRP":"6","Sen":"21180","Callout":"8","Begin":"0700/08","End":"1900/08","FA":"446078","Name":"WULLENJOHN, MARY","COT":"1532","Speaker":"","Result":"","Report":"","Pos":"","History":"STBY/6","_id":{"$wrap":"$oid","v":129}}
+{"k":"0000000082","o":"0000000235","v":"001"}
+{"_id":130,"_uid":130,"_dt":1554760655047,"_s":"626915f8f84b2823beb5c8db5ebb4983"}
+{"RAP":"C","GRP":"1","Sen":"14490","Callout":"1","Begin":"1200/08","End":"0000/09","FA":"150658","Name":"WORKMAN, CHARLOTTE","COT":"1624","Speaker":"","Result":"","Report":"","Pos":"","History":"5773/08","_id":{"$wrap":"$oid","v":130}}
+{"k":"0000000082","o":"0000000232","v":"001"}
+{"_id":131,"_uid":131,"_dt":1554760655047,"_s":"06f236722955f00656d5257283887fa8"}
+{"RAP":"C","GRP":"1","Sen":"25622","Callout":"2","Begin":"1200/08","End":"0000/09","FA":"700888","Name":"PARSONS, JHETT","COT":"3358","Speaker":"","Result":"","Report":"","Pos":"","History":"21232/08","_id":{"$wrap":"$oid","v":131}}
+{"k":"0000000082","o":"0000000222","v":"001"}
+{"_id":132,"_uid":132,"_dt":1554760655047,"_s":"db01d68d62be5af800f56a8a1c6ecdb7"}
+{"RAP":"C","GRP":"1","Sen":"25982","Callout":"3","Begin":"1200/08","End":"2359/08","FA":"709800","Name":"TORPHY, KARA","COT":"1850","Speaker":"","Result":"","Report":"","Pos":"","History":"","_id":{"$wrap":"$oid","v":132}}
+{"k":"0000000082","o":"0000000229","v":"001"}
+{"_id":133,"_uid":133,"_dt":1554760655047,"_s":"6e50ed9b0ef036bb894b70eca7e76468"}
+{"RAP":"C","GRP":"1","Sen":"26941","Callout":"4","Begin":"1200/08","End":"2359/08","FA":"724847","Name":"THIEME SKLAR, ROBYN","COT":"2008","Speaker":"","Result":"","Report":"","Pos":"","History":"","_id":{"$wrap":"$oid","v":133}}
+{"k":"0000000082","o":"0000000232","v":"001"}
+{"_id":134,"_uid":134,"_dt":1554760655047,"_s":"be5267c649d0f500cdc46c628fc8dec9"}
+{"RAP":"C","GRP":"2","Sen":"26942","Callout":"5","Begin":"1200/08","End":"0000/09","FA":"724061","Name":"STEMPORA, PAMELA","COT":"2419","Speaker":"","Result":"","Report":"","Pos":"","History":"STBY/6","_id":{"$wrap":"$oid","v":134}}
+{"k":"0000000082","o":"0000000243","v":"001"}
+{"_id":135,"_uid":135,"_dt":1554760655047,"_s":"14be650959cc11986f14d030ce1c346b"}
+{"RAP":"C","GRP":"3","Sen":"21092","Callout":"","Begin":"1200/08","End":"0000/09","FA":"462132","Name":"D AMBRA, VICTORIA","COT":"2353","Speaker":"","Result":"UNAVAILABLE","Report":"","Pos":"","History":"STBY/6","_id":{"$wrap":"$oid","v":135}}
+{"k":"0000000082","o":"0000000240","v":"001"}
+{"_id":136,"_uid":136,"_dt":1554760655048,"_s":"a491ccfd83f7f73c6a7d1a7800f4eeab"}
+{"RAP":"C","GRP":"4","Sen":"18500","Callout":"","Begin":"1200/08","End":"0000/09","FA":"507218","Name":"JACKSON, TIMIYA","COT":"1532","Speaker":"","Result":"5765/08","Report":"2119/08","Pos":"01","History":"","_id":{"$wrap":"$oid","v":136}}
+{"k":"0000000082","o":"0000000226","v":"001"}
+{"_id":137,"_uid":137,"_dt":1554760655048,"_s":"4053ec0487e2956c13b7eb96d85230ac"}
+{"RAP":"D","GRP":"1","Sen":"18843","Callout":"1","Begin":"1600/08","End":"2359/08","FA":"349142","Name":"MCLEOD, JENNIFER","COT":"2432","Speaker":"","Result":"","Report":"","Pos":"","History":"","_id":{"$wrap":"$oid","v":137}}
+{"k":"0000000082","o":"0000000225","v":"001"}
+{"_id":138,"_uid":138,"_dt":1554760655048,"_s":"923b5abaa34a57eec1e4e2251c90c6cc"}
+{"RAP":"D","GRP":"1","Sen":"26031","Callout":"2","Begin":"1600/08","End":"2359/08","FA":"701000","Name":"HERRING, AUDREY","COT":"1515","Speaker":"","Result":"","Report":"","Pos":"","History":"","_id":{"$wrap":"$oid","v":138}}
+{"k":"0000000082","o":"0000000224","v":"001"}
+{"_id":139,"_uid":139,"_dt":1554760655048,"_s":"2161f60ecd3cebe0326867987c52b22a"}
+{"RAP":"D","GRP":"2","Sen":"18415","Callout":"3","Begin":"1600/08","End":"0400/09","FA":"544018","Name":"TOWNER, BROOKE","COT":"1530","Speaker":"","Result":"","Report":"","Pos":"","History":"","_id":{"$wrap":"$oid","v":139}}
+{"k":"0000000082","o":"0000000214","v":"001"}
+{"_id":140,"_uid":140,"_dt":1554760655048,"_s":"6e924ce29ec0ec127f7491dadb500f92"}
+{"RAP":"","GRP":"1","Sen":"21167","Callout":"1","Begin":"","End":"","FA":"178756","Name":"WHITEHURST, WILLIAM","COT":"1949","Speaker":"","Result":"","Report":"","Pos":"","History":"","_id":{"$wrap":"$oid","v":140}}
+{"k":"0000000082","o":"0000000209","v":"001"}
+{"_id":141,"_uid":141,"_dt":1554760655048,"_s":"a1e2c657fa128fbe0e2fd40b604f21b5"}
+{"RAP":"","GRP":"1","Sen":"25340","Callout":"2","Begin":"","End":"","FA":"51660","Name":"MCNEILL, MARIAH","COT":"1330","Speaker":"","Result":"","Report":"","Pos":"","History":"","_id":{"$wrap":"$oid","v":141}}
+{"k":"0000000082","o":"0000000210","v":"001"}
+{"_id":142,"_uid":142,"_dt":1554760655049,"_s":"2371e5c895770e8b0f26ea910eda21fa"}
+{"RAP":"","GRP":"1","Sen":"25390","Callout":"3","Begin":"","End":"","FA":"53508","Name":"HEDLUND, CHELSEA","COT":"2138","Speaker":"","Result":"","Report":"","Pos":"","History":"","_id":{"$wrap":"$oid","v":142}}
+{"k":"0000000082","o":"0000000215","v":"001"}
+{"_id":143,"_uid":143,"_dt":1554760655049,"_s":"42ef72b6d551f5d6647116452daf7dc1"}
+{"RAP":"","GRP":"1","Sen":"25583","Callout":"4","Begin":"","End":"","FA":"695440","Name":"PANYATHEERA, TANAWAT","COT":"3832","Speaker":"","Result":"","Report":"","Pos":"","History":"","_id":{"$wrap":"$oid","v":143}}
+{"k":"0000000082","o":"0000000208","v":"001"}
+{"_id":144,"_uid":144,"_dt":1554760655049,"_s":"5a949cbf65e58fd20f93091f4a9ef996"}
+{"RAP":"","GRP":"1","Sen":"25637","Callout":"5","Begin":"","End":"","FA":"705260","Name":"MOORE, ALANNA","COT":"2752","Speaker":"","Result":"","Report":"","Pos":"","History":"","_id":{"$wrap":"$oid","v":144}}
+{"k":"0000000082","o":"0000000208","v":"001"}
+{"_id":145,"_uid":145,"_dt":1554760655049,"_s":"76130199b6e8caac20646338c4c1d6ee"}
+{"RAP":"","GRP":"1","Sen":"25637","Callout":"6","Begin":"","End":"","FA":"705260","Name":"MOORE, ALANNA","COT":"2752","Speaker":"","Result":"","Report":"","Pos":"","History":"","_id":{"$wrap":"$oid","v":145}}
+{"k":"0000000082","o":"0000000208","v":"001"}
+{"_id":146,"_uid":146,"_dt":1554760655049,"_s":"31f41da12754ffc15975c6c49e648f93"}
+{"RAP":"","GRP":"1","Sen":"25881","Callout":"7","Begin":"","End":"","FA":"704380","Name":"WHITNEY, SARA","COT":"2821","Speaker":"","Result":"","Report":"","Pos":"","History":"","_id":{"$wrap":"$oid","v":146}}
+{"k":"0000000082","o":"0000000230","v":"001"}
+{"_id":147,"_uid":147,"_dt":1554760655050,"_s":"ef918df2ab5456db30d595693fe6efc5"}
+{"RAP":"","GRP":"1","Sen":"25923","Callout":"","Begin":"","End":"","FA":"706324","Name":"RODRIGUEZ COMULADA, AMBAR","COT":"2605","Speaker":"","Result":"UNAVAILABLE","Report":"","Pos":"","History":"","_id":{"$wrap":"$oid","v":147}}
+{"k":"0000000082","o":"0000000211","v":"001"}
+{"_id":148,"_uid":148,"_dt":1554760655050,"_s":"f39063bac48a8c736d0e92352e91ed8a"}
+{"RAP":"","GRP":"1","Sen":"25966","Callout":"8","Begin":"","End":"","FA":"702404","Name":"LOUALLEN, BAILEY","COT":"2901","Speaker":"","Result":"","Report":"","Pos":"","History":"","_id":{"$wrap":"$oid","v":148}}
+{"k":"0000000082","o":"0000000211","v":"001"}
+{"_id":149,"_uid":149,"_dt":1554760655050,"_s":"150a9f9ab3153e8c0d84611ca356c8a1"}
+{"RAP":"","GRP":"1","Sen":"25987","Callout":"9","Begin":"","End":"","FA":"708522","Name":"HARVEY, MICHELLE","COT":"3253","Speaker":"","Result":"","Report":"","Pos":"","History":"","_id":{"$wrap":"$oid","v":149}}
+{"k":"0000000082","o":"0000000213","v":"001"}
+{"_id":150,"_uid":150,"_dt":1554760655050,"_s":"fd02a91043dbe45e6450dd41b9b570ed"}
+{"RAP":"","GRP":"1","Sen":"26932","Callout":"10","Begin":"","End":"","FA":"713559","Name":"BRUMAGIM, ABIGAIL","COT":"2631","Speaker":"","Result":"","Report":"","Pos":"","History":"","_id":{"$wrap":"$oid","v":150}}
+{"k":"0000000082","o":"0000000214","v":"001"}
+{"_id":151,"_uid":151,"_dt":1554760655050,"_s":"aca83aaaac29b9920af07e82ce89a5d3"}
+{"RAP":"","GRP":"1","Sen":"26940","Callout":"11","Begin":"","End":"","FA":"724229","Name":"PATTERSON, KRISTEN","COT":"2636","Speaker":"","Result":"","Report":"","Pos":"","History":"","_id":{"$wrap":"$oid","v":151}}
+{"k":"0000000082","o":"0000000210","v":"001"}
+{"_id":152,"_uid":152,"_dt":1554760655050,"_s":"fd1ec91adea996283cf01cf1fbc3f5f3"}
+{"RAP":"","GRP":"2","Sen":"20191","Callout":"12","Begin":"","End":"","FA":"525871","Name":"SHANKS, THOMAS","COT":"2558","Speaker":"","Result":"","Report":"","Pos":"","History":"","_id":{"$wrap":"$oid","v":152}}
+{"k":"0000000082","o":"0000000210","v":"001"}
+{"_id":153,"_uid":153,"_dt":1554760655050,"_s":"cc4f9b0f082ff60463d812448dba6d8b"}
+{"RAP":"","GRP":"2","Sen":"20202","Callout":"13","Begin":"","End":"","FA":"454699","Name":"HEREDIA, RANDY","COT":"8626","Speaker":"","Result":"","Report":"","Pos":"","History":"","_id":{"$wrap":"$oid","v":153}}
+{"k":"0000000082","o":"0000000213","v":"001"}
+{"_id":154,"_uid":154,"_dt":1554760655051,"_s":"bffbf7f99a18a3f217d91d1a20efc62b"}
+{"RAP":"","GRP":"2","Sen":"21300","Callout":"14","Begin":"","End":"","FA":"353850","Name":"CAMPBELL, ANTONIO","COT":"2056","Speaker":"","Result":"","Report":"","Pos":"","History":"","_id":{"$wrap":"$oid","v":154}}
+{"k":"0000000082","o":"0000000210","v":"001"}
+{"_id":155,"_uid":155,"_dt":1554760655051,"_s":"faa45dfbc26e40bae4fe49063f2d4edd"}
+{"RAP":"","GRP":"2","Sen":"25611","Callout":"15","Begin":"","End":"","FA":"687200","Name":"CLAYTON, CASEY","COT":"3310","Speaker":"","Result":"","Report":"","Pos":"","History":"","_id":{"$wrap":"$oid","v":155}}
+{"k":"0000000082","o":"0000000217","v":"001"}
+{"_id":156,"_uid":156,"_dt":1554760655051,"_s":"75775700a8ba59595342bd7e0ddee670"}
+{"RAP":"","GRP":"2","Sen":"25936","Callout":"","Begin":"","End":"","FA":"703595","Name":"DYKES, JANEI","COT":"2616","Speaker":"","Result":"UNAVAILABLE","Report":"","Pos":"","History":"","_id":{"$wrap":"$oid","v":156}}
+{"k":"0000000082","o":"0000000213","v":"001"}
+{"_id":157,"_uid":157,"_dt":1554760655051,"_s":"483e921cd14b4baeb29a7ab9c476fabe"}
+{"RAP":"","GRP":"2","Sen":"25972","Callout":"16","Begin":"","End":"","FA":"704887","Name":"WILLIAMS, HEATHER","COT":"1752","Speaker":"","Result":"","Report":"","Pos":"","History":"","_id":{"$wrap":"$oid","v":157}}
+{"k":"0000000082","o":"0000000208","v":"001"}
+{"_id":158,"_uid":158,"_dt":1554760655051,"_s":"4e1a4249c5dcc0970d3e7e404537c818"}
+{"RAP":"","GRP":"2","Sen":"25974","Callout":"17","Begin":"","End":"","FA":"703593","Name":"ESTEP, EMILY","COT":"3505","Speaker":"","Result":"","Report":"","Pos":"","History":"","_id":{"$wrap":"$oid","v":158}}
+{"k":"0000000082","o":"0000000209","v":"001"}
+{"_id":159,"_uid":159,"_dt":1554760655051,"_s":"98d6e06f60b1aa6a6c9354d23e9006b6"}
+{"RAP":"","GRP":"2","Sen":"26977","Callout":"18","Begin":"","End":"","FA":"723384","Name":"PARKS, JARROD","COT":"3652","Speaker":"","Result":"","Report":"","Pos":"","History":"","_id":{"$wrap":"$oid","v":159}}
+{"k":"0000000082","o":"0000000216","v":"001"}
+{"_id":160,"_uid":160,"_dt":1554760655052,"_s":"794e6a152217470431c4a8a2517d36f1"}
+{"RAP":"","GRP":"3","Sen":"25387","Callout":"19","Begin":"","End":"","FA":"55690","Name":"EICHENBERGER, HEATHER","COT":"2026","Speaker":"","Result":"","Report":"","Pos":"","History":"","_id":{"$wrap":"$oid","v":160}}
+{"k":"0000000082","o":"0000000211","v":"001"}
+{"_id":161,"_uid":161,"_dt":1554760655052,"_s":"458f53b4c6eebaf9fed12ac669cefbbb"}
+{"RAP":"","GRP":"3","Sen":"25454","Callout":"20","Begin":"","End":"","FA":"603474","Name":"RAINES, WHITNEY","COT":"3154","Speaker":"","Result":"","Report":"","Pos":"","History":"","_id":{"$wrap":"$oid","v":161}}
+{"k":"0000000082","o":"0000000208","v":"001"}
+{"_id":162,"_uid":162,"_dt":1554760655052,"_s":"4a0689aebf7ce3f90a89b55fe325ddda"}
+{"RAP":"","GRP":"3","Sen":"25629","Callout":"21","Begin":"","End":"","FA":"676113","Name":"NEWBY, KELLY","COT":"2001","Speaker":"","Result":"","Report":"","Pos":"","History":"","_id":{"$wrap":"$oid","v":162}}
+{"k":"0000000082","o":"0000000211","v":"001"}
+{"_id":163,"_uid":163,"_dt":1554760655052,"_s":"f259ac3a5fbd6eeee2b6e12a6e10b17e"}
+{"RAP":"","GRP":"3","Sen":"25630","Callout":"22","Begin":"","End":"","FA":"702435","Name":"THOMAS, KAITLYN","COT":"2126","Speaker":"","Result":"","Report":"","Pos":"","History":"","_id":{"$wrap":"$oid","v":163}}
+{"k":"0000000082","o":"0000000212","v":"001"}
+{"_id":164,"_uid":164,"_dt":1554760655052,"_s":"7dffb62dd368e632d6f7326d3792c5c2"}
+{"RAP":"","GRP":"3","Sen":"25884","Callout":"23","Begin":"","End":"","FA":"703615","Name":"GALVIN, MARGARET","COT":"1400","Speaker":"","Result":"","Report":"","Pos":"","History":"","_id":{"$wrap":"$oid","v":164}}
+{"k":"0000000082","o":"0000000208","v":"001"}
+{"_id":165,"_uid":165,"_dt":1554760655052,"_s":"6e6c426a1faf9e8173c84060650a9e95"}
+{"RAP":"","GRP":"3","Sen":"26959","Callout":"24","Begin":"","End":"","FA":"766697","Name":"ROACH, BRITT","COT":"1954","Speaker":"","Result":"","Report":"","Pos":"","History":"","_id":{"$wrap":"$oid","v":165}}
+{"k":"0000000082","o":"0000000213","v":"001"}
+{"_id":166,"_uid":166,"_dt":1554760655053,"_s":"8abec4da683b4c8fa4fed07e83deaee2"}
+{"RAP":"","GRP":"3","Sen":"27002","Callout":"25","Begin":"","End":"","FA":"724672","Name":"TURNER, DARCENTIA","COT":"2033","Speaker":"","Result":"","Report":"","Pos":"","History":"","_id":{"$wrap":"$oid","v":166}}
+{"k":"0000000082","o":"0000000209","v":"001"}
+{"_id":167,"_uid":167,"_dt":1554760655053,"_s":"234e67b3e493667618f63e5394511ce4"}
+{"RAP":"","GRP":"4","Sen":"25455","Callout":"26","Begin":"","End":"","FA":"598103","Name":"PARNELL, KERI","COT":"1030","Speaker":"","Result":"","Report":"","Pos":"","History":"","_id":{"$wrap":"$oid","v":167}}
+{"k":"0000000082","o":"0000000178","v":"001"}
+{"_id":168,"_uid":168,"_dt":1554760680141,"_s":"2386093d2d087904eee97551ccd36b1c"}
+{"RAP":"","GRP":"","Sen":"","Callout":"","Begin":"","End":"","FA":"","Name":"","COT":"","Speaker":"","Result":"","Report":"","Pos":"","History":"","_id":{"$wrap":"$oid","v":168}}
+{"k":"0000000082","o":"0000000178","v":"001"}
+{"_id":169,"_uid":169,"_dt":1554760680142,"_s":"50c3e9acc6ff379609236b254458bb5f"}
+{"RAP":"","GRP":"","Sen":"","Callout":"","Begin":"","End":"","FA":"","Name":"","COT":"","Speaker":"","Result":"","Report":"","Pos":"","History":"","_id":{"$wrap":"$oid","v":169}}
+{"k":"0000000082","o":"0000000239","v":"001"}
+{"_id":170,"_uid":170,"_dt":1554760680142,"_s":"5ad02b52ad1b05a89f9455f6033f4802"}
+{"RAP":"C*","GRP":"1","Sen":"19863","Callout":"","Begin":"1200/07","End":"0000/08","FA":"151075","Name":"ALMENARA, SERGIO","COT":"0743","Speaker":"SP","Result":"UNAVAILABLE","Report":"","Pos":"","History":"","_id":{"$wrap":"$oid","v":170}}
+{"k":"0000000082","o":"0000000238","v":"001"}
+{"_id":171,"_uid":171,"_dt":1554760680142,"_s":"f459d0d24a55e9e8339f725659ff4124"}
+{"RAP":"C*","GRP":"1","Sen":"25399","Callout":"","Begin":"1200/07","End":"0000/08","FA":"54769","Name":"VASILEVA, VIKTORIA","COT":"1238","Speaker":"","Result":"UNAVAILABLE","Report":"","Pos":"","History":"","_id":{"$wrap":"$oid","v":171}}
+{"k":"0000000082","o":"0000000234","v":"001"}
+{"_id":172,"_uid":172,"_dt":1554760680142,"_s":"12d5cd383f276bbc1e50f3a9ef495273"}
+{"RAP":"C*","GRP":"1","Sen":"25844","Callout":"","Begin":"1200/07","End":"0000/08","FA":"704882","Name":"MILLS, HOLLEE","COT":"2817","Speaker":"","Result":"UNAVAILABLE","Report":"","Pos":"","History":"","_id":{"$wrap":"$oid","v":172}}
+{"k":"0000000082","o":"0000000235","v":"001"}
+{"_id":173,"_uid":173,"_dt":1554760680142,"_s":"e9205d4deb73691f752666e86aea6708"}
+{"RAP":"C*","GRP":"1","Sen":"25980","Callout":"","Begin":"1200/07","End":"0000/08","FA":"703856","Name":"HARRIS, AMELIA","COT":"1536","Speaker":"","Result":"UNAVAILABLE","Report":"","Pos":"","History":"","_id":{"$wrap":"$oid","v":173}}
+{"k":"0000000082","o":"0000000238","v":"001"}
+{"_id":174,"_uid":174,"_dt":1554760680143,"_s":"b2dc2e3fc0d4025ee6f07406930a0f87"}
+{"RAP":"C*","GRP":"1","Sen":"26988","Callout":"","Begin":"1200/07","End":"0000/08","FA":"724675","Name":"RUIZ, CHRISTOPHER","COT":"1909","Speaker":"","Result":"UNAVAILABLE","Report":"","Pos":"","History":"","_id":{"$wrap":"$oid","v":174}}
+{"k":"0000000082","o":"0000000241","v":"001"}
+{"_id":175,"_uid":175,"_dt":1554760680143,"_s":"4e03cab750c966e3662e0d7c73633634"}
+{"RAP":"C*","GRP":"1","Sen":"26995","Callout":"","Begin":"1200/07","End":"0000/08","FA":"723831","Name":"TORRES BURGOS, ROGER","COT":"4013","Speaker":"","Result":"UNAVAILABLE","Report":"","Pos":"","History":"","_id":{"$wrap":"$oid","v":175}}
+{"k":"0000000082","o":"0000000245","v":"001"}
+{"_id":176,"_uid":176,"_dt":1554760680143,"_s":"f2d905abe075d42d13b69423ba7efcb6"}
+{"RAP":"D*","GRP":"1","Sen":"26071","Callout":"","Begin":"1600/07","End":"0400/08","FA":"705704","Name":"LABRIOLA, MICHELLE","COT":"1311","Speaker":"","Result":"31696/08","Report":"1657/08","Pos":"01","History":"","_id":{"$wrap":"$oid","v":176}}
+{"k":"0000000082","o":"0000000238","v":"001"}
+{"_id":177,"_uid":177,"_dt":1554760680143,"_s":"7ced28288efb5821b0d270fd132759d3"}
+{"RAP":"A","GRP":"1","Sen":"19863","Callout":"","Begin":"0300/08","End":"1500/08","FA":"151075","Name":"ALMENARA, SERGIO","COT":"0743","Speaker":"SP","Result":"UNAVAILABLE","Report":"","Pos":"","History":"","_id":{"$wrap":"$oid","v":177}}
+{"k":"0000000082","o":"0000000245","v":"001"}
+{"_id":178,"_uid":178,"_dt":1554760680143,"_s":"40a6998283ae4ecf64daaed1ba5395c2"}
+{"RAP":"A","GRP":"1","Sen":"23076","Callout":"","Begin":"0300/08","End":"1500/08","FA":"776125","Name":"TRAINOR, KATHERINE","COT":"7553","Speaker":"","Result":"UNAVAILABLE","Report":"","Pos":"","History":"5714/08","_id":{"$wrap":"$oid","v":178}}
+{"k":"0000000082","o":"0000000235","v":"001"}
+{"_id":179,"_uid":179,"_dt":1554760680143,"_s":"a38c82f2b104bebf4c97ec5a9208c85e"}
+{"RAP":"A","GRP":"1","Sen":"23179","Callout":"","Begin":"0300/08","End":"1500/08","FA":"777496","Name":"RUSSELL, LAUREN","COT":"0356","Speaker":"","Result":"UNAVAILABLE","Report":"","Pos":"","History":"","_id":{"$wrap":"$oid","v":179}}
+{"k":"0000000082","o":"0000000243","v":"001"}
+{"_id":180,"_uid":180,"_dt":1554760680144,"_s":"b293240af9e66ff84d37462db5d1e882"}
+{"RAP":"A","GRP":"1","Sen":"24444","Callout":"","Begin":"0300/08","End":"1500/08","FA":"823503","Name":"SCHWISOW, TYLER","COT":"2000","Speaker":"","Result":"UNAVAILABLE","Report":"","Pos":"","History":"19472/08","_id":{"$wrap":"$oid","v":180}}
+{"k":"0000000082","o":"0000000245","v":"001"}
+{"_id":181,"_uid":181,"_dt":1554760680144,"_s":"2e3f7c1710e239428bb128c413511309"}
+{"RAP":"A","GRP":"1","Sen":"25399","Callout":"","Begin":"0300/08","End":"1500/08","FA":"54769","Name":"VASILEVA, VIKTORIA","COT":"1238","Speaker":"","Result":"UNAVAILABLE","Report":"","Pos":"","History":"31639/08","_id":{"$wrap":"$oid","v":181}}
+{"k":"0000000082","o":"0000000246","v":"001"}
+{"_id":182,"_uid":182,"_dt":1554760680144,"_s":"9c168a8f6f0c19364b9b286037a60375"}
+{"RAP":"A","GRP":"1","Sen":"25633","Callout":"","Begin":"0300/08","End":"1500/08","FA":"700365","Name":"MCELROY, CHARLOTTE","COT":"2628","Speaker":"","Result":"UNAVAILABLE","Report":"","Pos":"","History":"31586/08","_id":{"$wrap":"$oid","v":182}}
+{"k":"0000000082","o":"0000000235","v":"001"}
+{"_id":183,"_uid":183,"_dt":1554760680144,"_s":"1c131803bc4a1fe730486f4747515f4c"}
+{"RAP":"A","GRP":"1","Sen":"25646","Callout":"","Begin":"0300/08","End":"1500/08","FA":"700363","Name":"CORBITT, CLAIRE","COT":"2203","Speaker":"","Result":"UNAVAILABLE","Report":"","Pos":"","History":"","_id":{"$wrap":"$oid","v":183}}
+{"k":"0000000082","o":"0000000240","v":"001"}
+{"_id":184,"_uid":184,"_dt":1554760680145,"_s":"3e2dedd39cc2753457d8d7e664d0f880"}
+{"RAP":"A","GRP":"1","Sen":"25847","Callout":"","Begin":"0300/08","End":"1500/08","FA":"702411","Name":"MYLES, HANNA","COT":"1027","Speaker":"","Result":"UNAVAILABLE","Report":"","Pos":"","History":"31588/08","_id":{"$wrap":"$oid","v":184}}
+{"k":"0000000082","o":"0000000244","v":"001"}
+{"_id":185,"_uid":185,"_dt":1554760680145,"_s":"94ab4334a9a098b36b371b8af6da9c38"}
+{"RAP":"A","GRP":"1","Sen":"25870","Callout":"","Begin":"0300/08","End":"1500/08","FA":"704866","Name":"ONEAL, CHARLOTTE","COT":"3328","Speaker":"","Result":"UNAVAILABLE","Report":"","Pos":"","History":"31587/08","_id":{"$wrap":"$oid","v":185}}
+{"k":"0000000082","o":"0000000243","v":"001"}
+{"_id":186,"_uid":186,"_dt":1554760680145,"_s":"06a0773c5a36a6f33f6de03233503475"}
+{"RAP":"A","GRP":"1","Sen":"25880","Callout":"","Begin":"0300/08","End":"1500/08","FA":"704730","Name":"ASCHE, PATRICIA","COT":"2813","Speaker":"","Result":"UNAVAILABLE","Report":"","Pos":"","History":"31586/08","_id":{"$wrap":"$oid","v":186}}
+{"k":"0000000082","o":"0000000237","v":"001"}
+{"_id":187,"_uid":187,"_dt":1554760680146,"_s":"96789bf3b78ce8450346a98fc86b1b41"}
+{"RAP":"A","GRP":"1","Sen":"25887","Callout":"","Begin":"0300/08","End":"1500/08","FA":"706306","Name":"VICK, CODY","COT":"2847","Speaker":"","Result":"UNAVAILABLE","Report":"","Pos":"","History":"5812/08","_id":{"$wrap":"$oid","v":187}}
+{"k":"0000000082","o":"0000000238","v":"001"}
+{"_id":188,"_uid":188,"_dt":1554760680146,"_s":"56103e1ef88d287ae9c24f7fdd763aa2"}
+{"RAP":"A","GRP":"1","Sen":"25915","Callout":"","Begin":"0319/08","End":"1500/08","FA":"702378","Name":"LIU, YIJIA","COT":"2816","Speaker":"","Result":"UNAVAILABLE","Report":"","Pos":"","History":"31586/08","_id":{"$wrap":"$oid","v":188}}
+{"k":"0000000082","o":"0000000239","v":"001"}
+{"_id":189,"_uid":189,"_dt":1554760680146,"_s":"3178e63133be3ae0f5ef083a7303a54f"}
+{"RAP":"A","GRP":"1","Sen":"25964","Callout":"","Begin":"0300/08","End":"1500/08","FA":"702459","Name":"RIVERS, CODY","COT":"3820","Speaker":"","Result":"UNAVAILABLE","Report":"","Pos":"","History":"5723/08","_id":{"$wrap":"$oid","v":189}}
+{"k":"0000000082","o":"0000000234","v":"001"}
+{"_id":190,"_uid":190,"_dt":1554760680146,"_s":"3fc7e2a14f4c3e8aa2a050771349c57b"}
+{"RAP":"A","GRP":"1","Sen":"25980","Callout":"","Begin":"0300/08","End":"1500/08","FA":"703856","Name":"HARRIS, AMELIA","COT":"1015","Speaker":"","Result":"UNAVAILABLE","Report":"","Pos":"","History":"","_id":{"$wrap":"$oid","v":190}}
+{"k":"0000000082","o":"0000000241","v":"001"}
+{"_id":191,"_uid":191,"_dt":1554760680146,"_s":"68c97c6066fbef2a904d86c0cdc5c6ae"}
+{"RAP":"A","GRP":"1","Sen":"26028","Callout":"","Begin":"0300/08","End":"1500/08","FA":"707060","Name":"OLSON, AMANDA","COT":"2233","Speaker":"","Result":"UNAVAILABLE","Report":"","Pos":"","History":"21214/08","_id":{"$wrap":"$oid","v":191}}
+{"k":"0000000082","o":"0000000245","v":"001"}
+{"_id":192,"_uid":192,"_dt":1554760680146,"_s":"cf000613b71f1f59859e0acfb3ea2353"}
+{"RAP":"A","GRP":"1","Sen":"26034","Callout":"","Begin":"0300/08","End":"1500/08","FA":"704854","Name":"ROTHFIELD, NICOLE","COT":"2345","Speaker":"","Result":"UNAVAILABLE","Report":"","Pos":"","History":"31586/08","_id":{"$wrap":"$oid","v":192}}
+{"k":"0000000082","o":"0000000241","v":"001"}
+{"_id":193,"_uid":193,"_dt":1554760680147,"_s":"1d02f8ed56eac97f3466a54820158fa7"}
+{"RAP":"A","GRP":"1","Sen":"26299","Callout":"","Begin":"0300/08","End":"1500/08","FA":"707440","Name":"THOMAS, ELLEN","COT":"1958","Speaker":"","Result":"UNAVAILABLE","Report":"","Pos":"","History":"31587/08","_id":{"$wrap":"$oid","v":193}}
+{"k":"0000000082","o":"0000000236","v":"001"}
+{"_id":194,"_uid":194,"_dt":1554760680147,"_s":"a2255c5d6e9c52cfd2241c3d1c353c8f"}
+{"RAP":"A","GRP":"1","Sen":"26734","Callout":"","Begin":"0300/08","End":"1500/08","FA":"714945","Name":"HOWELL, STEFANIE","COT":"1609","Speaker":"","Result":"UNAVAILABLE","Report":"","Pos":"","History":"","_id":{"$wrap":"$oid","v":194}}
+{"k":"0000000082","o":"0000000237","v":"001"}
+{"_id":195,"_uid":195,"_dt":1554760680147,"_s":"38e1e67efcad8c4a5755451767cb5159"}
+{"RAP":"A","GRP":"1","Sen":"26988","Callout":"","Begin":"0300/08","End":"1500/08","FA":"724675","Name":"RUIZ, CHRISTOPHER","COT":"1319","Speaker":"","Result":"UNAVAILABLE","Report":"","Pos":"","History":"","_id":{"$wrap":"$oid","v":195}}
+{"k":"0000000082","o":"0000000235","v":"001"}
+{"_id":196,"_uid":196,"_dt":1554760680147,"_s":"dee86c51d5a762bb415f2ca668cbcb39"}
+{"RAP":"A","GRP":"2","Sen":"25842","Callout":"","Begin":"0300/08","End":"1500/08","FA":"703322","Name":"RIDDLE, KATHRYN","COT":"0840","Speaker":"","Result":"UNAVAILABLE","Report":"","Pos":"","History":"","_id":{"$wrap":"$oid","v":196}}
+{"k":"0000000082","o":"0000000234","v":"001"}
+{"_id":197,"_uid":197,"_dt":1554760680147,"_s":"aaf825da2abca7f6f9c4b18882b3eda2"}
+{"RAP":"A","GRP":"4","Sen":"23126","Callout":"","Begin":"0300/08","End":"1500/08","FA":"776940","Name":"YEUNG, PUI MAN","COT":"1832","Speaker":"","Result":"UNAVAILABLE","Report":"","Pos":"","History":"","_id":{"$wrap":"$oid","v":197}}
+{"k":"0000000082","o":"0000000238","v":"001"}
+{"_id":198,"_uid":198,"_dt":1554760680147,"_s":"f0892ea242c96e36fd117fee75f27c32"}
+{"RAP":"A","GRP":"4","Sen":"23364","Callout":"","Begin":"0300/08","End":"1500/08","FA":"767238","Name":"WOODWARD, SAMANTHA","COT":"1747","Speaker":"","Result":"UNAVAILABLE","Report":"","Pos":"","History":"","_id":{"$wrap":"$oid","v":198}}
+{"k":"0000000082","o":"0000000243","v":"001"}
+{"_id":199,"_uid":199,"_dt":1554760680148,"_s":"7dd1e4acece2d156a259e3e864a52995"}
+{"RAP":"A","GRP":"4","Sen":"25331","Callout":"","Begin":"0300/08","End":"1500/08","FA":"51607","Name":"MC DANIEL, KAITLIN","COT":"0515","Speaker":"","Result":"UNAVAILABLE","Report":"","Pos":"","History":"STBY/6","_id":{"$wrap":"$oid","v":199}}
+{"k":"0000000082","o":"0000000236","v":"001"}
+{"_id":200,"_uid":200,"_dt":1554760680148,"_s":"3a7ae1ce36ad968c53e5c7b098f3ea49"}
+{"RAP":"A","GRP":"5","Sen":"23154","Callout":"","Begin":"0300/08","End":"1500/08","FA":"777479","Name":"LE DUC, MICHELLE","COT":"1026","Speaker":"","Result":"UNAVAILABLE","Report":"","Pos":"","History":"","_id":{"$wrap":"$oid","v":200}}
+{"k":"0000000082","o":"0000000241","v":"001"}
+{"_id":201,"_uid":201,"_dt":1554760680148,"_s":"d50243296b18753e3a2c64eba930d0e7"}
+{"RAP":"A","GRP":"5","Sen":"25364","Callout":"","Begin":"0300/08","End":"1500/08","FA":"52845","Name":"BECERRA, ANDRES","COT":"3357","Speaker":"","Result":"UNAVAILABLE","Report":"","Pos":"","History":"5813/08","_id":{"$wrap":"$oid","v":201}}
+{"k":"0000000082","o":"0000000233","v":"001"}
+{"_id":202,"_uid":202,"_dt":1554760680148,"_s":"d6f050a012476b31524fd4aa9e8667e2"}
+{"RAP":"A","GRP":"6","Sen":"25346","Callout":"","Begin":"0300/08","End":"1500/08","FA":"51646","Name":"BODIKER, ERICA","COT":"1543","Speaker":"","Result":"UNAVAILABLE","Report":"","Pos":"","History":"","_id":{"$wrap":"$oid","v":202}}
+{"k":"0000000082","o":"0000000245","v":"001"}
+{"_id":203,"_uid":203,"_dt":1554760680149,"_s":"493e92fc97783154b82ce203f304b659"}
+{"RAP":"B","GRP":"1","Sen":"19202","Callout":"","Begin":"0700/08","End":"1900/08","FA":"115354","Name":"AMBROSINO, BENJAMIN","COT":"2652","Speaker":"","Result":"31696/08","Report":"1657/08","Pos":"04","History":"","_id":{"$wrap":"$oid","v":203}}
+{"k":"0000000082","o":"0000000222","v":"001"}
+{"_id":204,"_uid":204,"_dt":1554760680149,"_s":"d22f9bb1feb288f36b44ed9c95383bed"}
+{"RAP":"B","GRP":"1","Sen":"23189","Callout":"1","Begin":"0700/08","End":"1900/08","FA":"343830","Name":"HILL, LURAIN","COT":"2653","Speaker":"","Result":"","Report":"","Pos":"","History":"","_id":{"$wrap":"$oid","v":204}}
+{"k":"0000000082","o":"0000000226","v":"001"}
+{"_id":205,"_uid":205,"_dt":1554760680149,"_s":"c02681d71daa33c14146806273ccb65b"}
+{"RAP":"B","GRP":"1","Sen":"25690","Callout":"2","Begin":"0700/08","End":"1900/08","FA":"660777","Name":"ESHELMAN, HANNAH","COT":"1129","Speaker":"","Result":"","Report":"","Pos":"","History":"","_id":{"$wrap":"$oid","v":205}}
+{"k":"0000000082","o":"0000000223","v":"001"}
+{"_id":206,"_uid":206,"_dt":1554760680149,"_s":"f04336588dee81e2c6590965e428be96"}
+{"RAP":"B","GRP":"1","Sen":"25844","Callout":"3","Begin":"0700/08","End":"1900/08","FA":"704882","Name":"MILLS, HOLLEE","COT":"2817","Speaker":"","Result":"","Report":"","Pos":"","History":"","_id":{"$wrap":"$oid","v":206}}
+{"k":"0000000082","o":"0000000244","v":"001"}
+{"_id":207,"_uid":207,"_dt":1554760680149,"_s":"fcaff8476331c534d26a0a8e38537403"}
+{"RAP":"B","GRP":"1","Sen":"26071","Callout":"","Begin":"0700/08","End":"1900/08","FA":"705704","Name":"LABRIOLA, MICHELLE","COT":"1311","Speaker":"","Result":"31696/08","Report":"1657/08","Pos":"01","History":"","_id":{"$wrap":"$oid","v":207}}
+{"k":"0000000082","o":"0000000223","v":"001"}
+{"_id":208,"_uid":208,"_dt":1554760680150,"_s":"8cbd0564e443156073b13b71475683c3"}
+{"RAP":"B","GRP":"1","Sen":"26097","Callout":"4","Begin":"0700/08","End":"1900/08","FA":"708510","Name":"AKERS, ALYSSA","COT":"2240","Speaker":"","Result":"","Report":"","Pos":"","History":"","_id":{"$wrap":"$oid","v":208}}
+{"k":"0000000082","o":"0000000227","v":"001"}
+{"_id":209,"_uid":209,"_dt":1554760680150,"_s":"f17791525fcf6a468037e8d2b914111a"}
+{"RAP":"B","GRP":"1","Sen":"26735","Callout":"5","Begin":"0700/08","End":"1900/08","FA":"718584","Name":"SULLIVAN, SHANNON","COT":"2504","Speaker":"","Result":"","Report":"","Pos":"","History":"","_id":{"$wrap":"$oid","v":209}}
+{"k":"0000000082","o":"0000000231","v":"001"}
+{"_id":210,"_uid":210,"_dt":1554760680150,"_s":"6b42c70e45680643767d4caf5800159d"}
+{"RAP":"B","GRP":"3","Sen":"21483","Callout":"6","Begin":"0700/08","End":"1900/08","FA":"428694","Name":"ALFINI, CHRISTY","COT":"1515","Speaker":"","Result":"","Report":"","Pos":"","History":"STBY/6","_id":{"$wrap":"$oid","v":210}}
+{"k":"0000000082","o":"0000000223","v":"001"}
+{"_id":211,"_uid":211,"_dt":1554760680150,"_s":"6b0fb6b5ca925fc25d9b24387f337886"}
+{"RAP":"B","GRP":"5","Sen":"18430","Callout":"7","Begin":"0700/08","End":"1900/08","FA":"109042","Name":"KARCHER, LISA","COT":"1000","Speaker":"","Result":"","Report":"","Pos":"","History":"","_id":{"$wrap":"$oid","v":211}}
+{"k":"0000000082","o":"0000000232","v":"001"}
+{"_id":212,"_uid":212,"_dt":1554760680150,"_s":"4bab7285e0d9b6eab1a715f52150c39a"}
+{"RAP":"B","GRP":"6","Sen":"21180","Callout":"8","Begin":"0700/08","End":"1900/08","FA":"446078","Name":"WULLENJOHN, MARY","COT":"1532","Speaker":"","Result":"","Report":"","Pos":"","History":"STBY/6","_id":{"$wrap":"$oid","v":212}}
+{"k":"0000000082","o":"0000000235","v":"001"}
+{"_id":213,"_uid":213,"_dt":1554760680150,"_s":"d3ea3d7a1ad05cddc689f1225f27b0ee"}
+{"RAP":"C","GRP":"1","Sen":"14490","Callout":"1","Begin":"1200/08","End":"0000/09","FA":"150658","Name":"WORKMAN, CHARLOTTE","COT":"1624","Speaker":"","Result":"","Report":"","Pos":"","History":"5773/08","_id":{"$wrap":"$oid","v":213}}
+{"k":"0000000082","o":"0000000232","v":"001"}
+{"_id":214,"_uid":214,"_dt":1554760680150,"_s":"9ab654ced22140718e2f420daddb88bd"}
+{"RAP":"C","GRP":"1","Sen":"25622","Callout":"2","Begin":"1200/08","End":"0000/09","FA":"700888","Name":"PARSONS, JHETT","COT":"3358","Speaker":"","Result":"","Report":"","Pos":"","History":"21232/08","_id":{"$wrap":"$oid","v":214}}
+{"k":"0000000082","o":"0000000222","v":"001"}
+{"_id":215,"_uid":215,"_dt":1554760680151,"_s":"73db8f554389ad8b9ce9a5e0842068a9"}
+{"RAP":"C","GRP":"1","Sen":"25982","Callout":"3","Begin":"1200/08","End":"2359/08","FA":"709800","Name":"TORPHY, KARA","COT":"1850","Speaker":"","Result":"","Report":"","Pos":"","History":"","_id":{"$wrap":"$oid","v":215}}
+{"k":"0000000082","o":"0000000229","v":"001"}
+{"_id":216,"_uid":216,"_dt":1554760680151,"_s":"83ca75864a4ded7b8e36cdde1b26739e"}
+{"RAP":"C","GRP":"1","Sen":"26941","Callout":"4","Begin":"1200/08","End":"2359/08","FA":"724847","Name":"THIEME SKLAR, ROBYN","COT":"2008","Speaker":"","Result":"","Report":"","Pos":"","History":"","_id":{"$wrap":"$oid","v":216}}
+{"k":"0000000082","o":"0000000232","v":"001"}
+{"_id":217,"_uid":217,"_dt":1554760680151,"_s":"be1b14fb462dbdbbc4acf102154478b6"}
+{"RAP":"C","GRP":"2","Sen":"26942","Callout":"5","Begin":"1200/08","End":"0000/09","FA":"724061","Name":"STEMPORA, PAMELA","COT":"2419","Speaker":"","Result":"","Report":"","Pos":"","History":"STBY/6","_id":{"$wrap":"$oid","v":217}}
+{"k":"0000000082","o":"0000000243","v":"001"}
+{"_id":218,"_uid":218,"_dt":1554760680151,"_s":"11fef42961d4dc1fb019228ff619e20d"}
+{"RAP":"C","GRP":"3","Sen":"21092","Callout":"","Begin":"1200/08","End":"0000/09","FA":"462132","Name":"D AMBRA, VICTORIA","COT":"2353","Speaker":"","Result":"UNAVAILABLE","Report":"","Pos":"","History":"STBY/6","_id":{"$wrap":"$oid","v":218}}
+{"k":"0000000082","o":"0000000240","v":"001"}
+{"_id":219,"_uid":219,"_dt":1554760680151,"_s":"87b467c0fa06436690078901f6b4fa17"}
+{"RAP":"C","GRP":"4","Sen":"18500","Callout":"","Begin":"1200/08","End":"0000/09","FA":"507218","Name":"JACKSON, TIMIYA","COT":"1532","Speaker":"","Result":"5765/08","Report":"2119/08","Pos":"01","History":"","_id":{"$wrap":"$oid","v":219}}
+{"k":"0000000082","o":"0000000226","v":"001"}
+{"_id":220,"_uid":220,"_dt":1554760680151,"_s":"e2b4495a06d68eb142667664de2f835c"}
+{"RAP":"D","GRP":"1","Sen":"18843","Callout":"1","Begin":"1600/08","End":"2359/08","FA":"349142","Name":"MCLEOD, JENNIFER","COT":"2432","Speaker":"","Result":"","Report":"","Pos":"","History":"","_id":{"$wrap":"$oid","v":220}}
+{"k":"0000000082","o":"0000000225","v":"001"}
+{"_id":221,"_uid":221,"_dt":1554760680151,"_s":"26a0f70f555e37ed105fc5349ff14535"}
+{"RAP":"D","GRP":"1","Sen":"26031","Callout":"2","Begin":"1600/08","End":"2359/08","FA":"701000","Name":"HERRING, AUDREY","COT":"1515","Speaker":"","Result":"","Report":"","Pos":"","History":"","_id":{"$wrap":"$oid","v":221}}
+{"k":"0000000082","o":"0000000224","v":"001"}
+{"_id":222,"_uid":222,"_dt":1554760680151,"_s":"28e528b5e2afa2e90d92153ab03890ac"}
+{"RAP":"D","GRP":"2","Sen":"18415","Callout":"3","Begin":"1600/08","End":"0400/09","FA":"544018","Name":"TOWNER, BROOKE","COT":"1530","Speaker":"","Result":"","Report":"","Pos":"","History":"","_id":{"$wrap":"$oid","v":222}}
+{"k":"0000000082","o":"0000000214","v":"001"}
+{"_id":223,"_uid":223,"_dt":1554760680152,"_s":"44cde49cc1c4ae8c69e51c708cf6b0f2"}
+{"RAP":"","GRP":"1","Sen":"21167","Callout":"1","Begin":"","End":"","FA":"178756","Name":"WHITEHURST, WILLIAM","COT":"1949","Speaker":"","Result":"","Report":"","Pos":"","History":"","_id":{"$wrap":"$oid","v":223}}
+{"k":"0000000082","o":"0000000209","v":"001"}
+{"_id":224,"_uid":224,"_dt":1554760680152,"_s":"afb02c3c5ec61eac6dcbb5a4906beb11"}
+{"RAP":"","GRP":"1","Sen":"25340","Callout":"2","Begin":"","End":"","FA":"51660","Name":"MCNEILL, MARIAH","COT":"1330","Speaker":"","Result":"","Report":"","Pos":"","History":"","_id":{"$wrap":"$oid","v":224}}
+{"k":"0000000082","o":"0000000210","v":"001"}
+{"_id":225,"_uid":225,"_dt":1554760680152,"_s":"84767f164d5127b69d9675823d7d4f7a"}
+{"RAP":"","GRP":"1","Sen":"25390","Callout":"3","Begin":"","End":"","FA":"53508","Name":"HEDLUND, CHELSEA","COT":"2138","Speaker":"","Result":"","Report":"","Pos":"","History":"","_id":{"$wrap":"$oid","v":225}}
+{"k":"0000000082","o":"0000000215","v":"001"}
+{"_id":226,"_uid":226,"_dt":1554760680152,"_s":"e00a9f8da7d997b6c326a3f4bfadd13a"}
+{"RAP":"","GRP":"1","Sen":"25583","Callout":"4","Begin":"","End":"","FA":"695440","Name":"PANYATHEERA, TANAWAT","COT":"3832","Speaker":"","Result":"","Report":"","Pos":"","History":"","_id":{"$wrap":"$oid","v":226}}
+{"k":"0000000082","o":"0000000208","v":"001"}
+{"_id":227,"_uid":227,"_dt":1554760680152,"_s":"1b6de8bf24e06b6a42b1fafedd97ff72"}
+{"RAP":"","GRP":"1","Sen":"25637","Callout":"5","Begin":"","End":"","FA":"705260","Name":"MOORE, ALANNA","COT":"2752","Speaker":"","Result":"","Report":"","Pos":"","History":"","_id":{"$wrap":"$oid","v":227}}
+{"k":"0000000082","o":"0000000208","v":"001"}
+{"_id":228,"_uid":228,"_dt":1554760680152,"_s":"05398b6e5095454f39bcb7a888c9a888"}
+{"RAP":"","GRP":"1","Sen":"25637","Callout":"6","Begin":"","End":"","FA":"705260","Name":"MOORE, ALANNA","COT":"2752","Speaker":"","Result":"","Report":"","Pos":"","History":"","_id":{"$wrap":"$oid","v":228}}
+{"k":"0000000082","o":"0000000208","v":"001"}
+{"_id":229,"_uid":229,"_dt":1554760680152,"_s":"891098840f4d5b7d0d4183f7a22106b5"}
+{"RAP":"","GRP":"1","Sen":"25881","Callout":"7","Begin":"","End":"","FA":"704380","Name":"WHITNEY, SARA","COT":"2821","Speaker":"","Result":"","Report":"","Pos":"","History":"","_id":{"$wrap":"$oid","v":229}}
+{"k":"0000000082","o":"0000000230","v":"001"}
+{"_id":230,"_uid":230,"_dt":1554760680153,"_s":"ecf0c05b2bf67d905a596755228b645f"}
+{"RAP":"","GRP":"1","Sen":"25923","Callout":"","Begin":"","End":"","FA":"706324","Name":"RODRIGUEZ COMULADA, AMBAR","COT":"2605","Speaker":"","Result":"UNAVAILABLE","Report":"","Pos":"","History":"","_id":{"$wrap":"$oid","v":230}}
+{"k":"0000000082","o":"0000000211","v":"001"}
+{"_id":231,"_uid":231,"_dt":1554760680153,"_s":"e422b0503a1176868c72eb57bcd672c1"}
+{"RAP":"","GRP":"1","Sen":"25966","Callout":"8","Begin":"","End":"","FA":"702404","Name":"LOUALLEN, BAILEY","COT":"2901","Speaker":"","Result":"","Report":"","Pos":"","History":"","_id":{"$wrap":"$oid","v":231}}
+{"k":"0000000082","o":"0000000211","v":"001"}
+{"_id":232,"_uid":232,"_dt":1554760680153,"_s":"667e6e60815a966f4e163d84fe46de27"}
+{"RAP":"","GRP":"1","Sen":"25987","Callout":"9","Begin":"","End":"","FA":"708522","Name":"HARVEY, MICHELLE","COT":"3253","Speaker":"","Result":"","Report":"","Pos":"","History":"","_id":{"$wrap":"$oid","v":232}}
+{"k":"0000000082","o":"0000000213","v":"001"}
+{"_id":233,"_uid":233,"_dt":1554760680153,"_s":"7bb6f6bb9bf63da495b6f10d0fac6fa4"}
+{"RAP":"","GRP":"1","Sen":"26932","Callout":"10","Begin":"","End":"","FA":"713559","Name":"BRUMAGIM, ABIGAIL","COT":"2631","Speaker":"","Result":"","Report":"","Pos":"","History":"","_id":{"$wrap":"$oid","v":233}}
+{"k":"0000000082","o":"0000000214","v":"001"}
+{"_id":234,"_uid":234,"_dt":1554760680153,"_s":"da10c4ad2054018542dad09080a4a981"}
+{"RAP":"","GRP":"1","Sen":"26940","Callout":"11","Begin":"","End":"","FA":"724229","Name":"PATTERSON, KRISTEN","COT":"2636","Speaker":"","Result":"","Report":"","Pos":"","History":"","_id":{"$wrap":"$oid","v":234}}
+{"k":"0000000082","o":"0000000210","v":"001"}
+{"_id":235,"_uid":235,"_dt":1554760680153,"_s":"5354c58542d9a19bffc34a04362ab452"}
+{"RAP":"","GRP":"2","Sen":"20191","Callout":"12","Begin":"","End":"","FA":"525871","Name":"SHANKS, THOMAS","COT":"2558","Speaker":"","Result":"","Report":"","Pos":"","History":"","_id":{"$wrap":"$oid","v":235}}
+{"k":"0000000082","o":"0000000210","v":"001"}
+{"_id":236,"_uid":236,"_dt":1554760680153,"_s":"1bbca504adc6c229b6f0cfeb08d3ef63"}
+{"RAP":"","GRP":"2","Sen":"20202","Callout":"13","Begin":"","End":"","FA":"454699","Name":"HEREDIA, RANDY","COT":"8626","Speaker":"","Result":"","Report":"","Pos":"","History":"","_id":{"$wrap":"$oid","v":236}}
+{"k":"0000000082","o":"0000000213","v":"001"}
+{"_id":237,"_uid":237,"_dt":1554760680154,"_s":"6a0342a2ddc1450b970e9a3dbbfbcc2e"}
+{"RAP":"","GRP":"2","Sen":"21300","Callout":"14","Begin":"","End":"","FA":"353850","Name":"CAMPBELL, ANTONIO","COT":"2056","Speaker":"","Result":"","Report":"","Pos":"","History":"","_id":{"$wrap":"$oid","v":237}}
+{"k":"0000000082","o":"0000000210","v":"001"}
+{"_id":238,"_uid":238,"_dt":1554760680154,"_s":"89aaef98a35e06a4dda1889d1269ebe1"}
+{"RAP":"","GRP":"2","Sen":"25611","Callout":"15","Begin":"","End":"","FA":"687200","Name":"CLAYTON, CASEY","COT":"3310","Speaker":"","Result":"","Report":"","Pos":"","History":"","_id":{"$wrap":"$oid","v":238}}
+{"k":"0000000082","o":"0000000217","v":"001"}
+{"_id":239,"_uid":239,"_dt":1554760680154,"_s":"d7f8179f98a42b4208e49be6aa5c2486"}
+{"RAP":"","GRP":"2","Sen":"25936","Callout":"","Begin":"","End":"","FA":"703595","Name":"DYKES, JANEI","COT":"2616","Speaker":"","Result":"UNAVAILABLE","Report":"","Pos":"","History":"","_id":{"$wrap":"$oid","v":239}}
+{"k":"0000000082","o":"0000000213","v":"001"}
+{"_id":240,"_uid":240,"_dt":1554760680154,"_s":"ea1d0718533528f518ad3edd18fb9faa"}
+{"RAP":"","GRP":"2","Sen":"25972","Callout":"16","Begin":"","End":"","FA":"704887","Name":"WILLIAMS, HEATHER","COT":"1752","Speaker":"","Result":"","Report":"","Pos":"","History":"","_id":{"$wrap":"$oid","v":240}}
+{"k":"0000000082","o":"0000000208","v":"001"}
+{"_id":241,"_uid":241,"_dt":1554760680154,"_s":"4e907ecb809947cdeab2848d0700e33f"}
+{"RAP":"","GRP":"2","Sen":"25974","Callout":"17","Begin":"","End":"","FA":"703593","Name":"ESTEP, EMILY","COT":"3505","Speaker":"","Result":"","Report":"","Pos":"","History":"","_id":{"$wrap":"$oid","v":241}}
+{"k":"0000000082","o":"0000000209","v":"001"}
+{"_id":242,"_uid":242,"_dt":1554760680154,"_s":"2002a7d2586c8a20a9835e0e3fd2673d"}
+{"RAP":"","GRP":"2","Sen":"26977","Callout":"18","Begin":"","End":"","FA":"723384","Name":"PARKS, JARROD","COT":"3652","Speaker":"","Result":"","Report":"","Pos":"","History":"","_id":{"$wrap":"$oid","v":242}}
+{"k":"0000000082","o":"0000000216","v":"001"}
+{"_id":243,"_uid":243,"_dt":1554760680155,"_s":"4a568ab3495a2ec33fd5146e7c2b2c9d"}
+{"RAP":"","GRP":"3","Sen":"25387","Callout":"19","Begin":"","End":"","FA":"55690","Name":"EICHENBERGER, HEATHER","COT":"2026","Speaker":"","Result":"","Report":"","Pos":"","History":"","_id":{"$wrap":"$oid","v":243}}
+{"k":"0000000082","o":"0000000211","v":"001"}
+{"_id":244,"_uid":244,"_dt":1554760680155,"_s":"bfa292f46905f20414d6518a1534f883"}
+{"RAP":"","GRP":"3","Sen":"25454","Callout":"20","Begin":"","End":"","FA":"603474","Name":"RAINES, WHITNEY","COT":"3154","Speaker":"","Result":"","Report":"","Pos":"","History":"","_id":{"$wrap":"$oid","v":244}}
+{"k":"0000000082","o":"0000000208","v":"001"}
+{"_id":245,"_uid":245,"_dt":1554760680155,"_s":"1e2d6d7a6b73e02a5d71c53bab2d9643"}
+{"RAP":"","GRP":"3","Sen":"25629","Callout":"21","Begin":"","End":"","FA":"676113","Name":"NEWBY, KELLY","COT":"2001","Speaker":"","Result":"","Report":"","Pos":"","History":"","_id":{"$wrap":"$oid","v":245}}
+{"k":"0000000082","o":"0000000211","v":"001"}
+{"_id":246,"_uid":246,"_dt":1554760680155,"_s":"ed95b01f9c1236192e75384df51d9965"}
+{"RAP":"","GRP":"3","Sen":"25630","Callout":"22","Begin":"","End":"","FA":"702435","Name":"THOMAS, KAITLYN","COT":"2126","Speaker":"","Result":"","Report":"","Pos":"","History":"","_id":{"$wrap":"$oid","v":246}}
+{"k":"0000000082","o":"0000000212","v":"001"}
+{"_id":247,"_uid":247,"_dt":1554760680155,"_s":"5034b3f548eb5923637d178488215ac1"}
+{"RAP":"","GRP":"3","Sen":"25884","Callout":"23","Begin":"","End":"","FA":"703615","Name":"GALVIN, MARGARET","COT":"1400","Speaker":"","Result":"","Report":"","Pos":"","History":"","_id":{"$wrap":"$oid","v":247}}
+{"k":"0000000082","o":"0000000208","v":"001"}
+{"_id":248,"_uid":248,"_dt":1554760680155,"_s":"9dba16f693d9c3f3f7e93d4222f563a1"}
+{"RAP":"","GRP":"3","Sen":"26959","Callout":"24","Begin":"","End":"","FA":"766697","Name":"ROACH, BRITT","COT":"1954","Speaker":"","Result":"","Report":"","Pos":"","History":"","_id":{"$wrap":"$oid","v":248}}
+{"k":"0000000082","o":"0000000213","v":"001"}
+{"_id":249,"_uid":249,"_dt":1554760680155,"_s":"65c84477e1ddea80c15adba4a9acb666"}
+{"RAP":"","GRP":"3","Sen":"27002","Callout":"25","Begin":"","End":"","FA":"724672","Name":"TURNER, DARCENTIA","COT":"2033","Speaker":"","Result":"","Report":"","Pos":"","History":"","_id":{"$wrap":"$oid","v":249}}
+{"k":"0000000082","o":"0000000209","v":"001"}
+{"_id":250,"_uid":250,"_dt":1554760680156,"_s":"c3898748cb1ac0d65ff34cb1538f4c3c"}
+{"RAP":"","GRP":"4","Sen":"25455","Callout":"26","Begin":"","End":"","FA":"598103","Name":"PARNELL, KERI","COT":"1030","Speaker":"","Result":"","Report":"","Pos":"","History":"","_id":{"$wrap":"$oid","v":250}}
+{"k":"0000000082","o":"0000000178","v":"001"}
+{"_id":251,"_uid":251,"_dt":1554760740171,"_s":"c5ef7b09389facc2b4b4d4cd596fa8c3"}
+{"RAP":"","GRP":"","Sen":"","Callout":"","Begin":"","End":"","FA":"","Name":"","COT":"","Speaker":"","Result":"","Report":"","Pos":"","History":"","_id":{"$wrap":"$oid","v":251}}
+{"k":"0000000082","o":"0000000178","v":"001"}
+{"_id":252,"_uid":252,"_dt":1554760740171,"_s":"5102f37335e0eb39534f7867e8b865db"}
+{"RAP":"","GRP":"","Sen":"","Callout":"","Begin":"","End":"","FA":"","Name":"","COT":"","Speaker":"","Result":"","Report":"","Pos":"","History":"","_id":{"$wrap":"$oid","v":252}}
+{"k":"0000000082","o":"0000000239","v":"001"}
+{"_id":253,"_uid":253,"_dt":1554760740171,"_s":"4507a38fae612c18b52f89566112bc51"}
+{"RAP":"C*","GRP":"1","Sen":"19863","Callout":"","Begin":"1200/07","End":"0000/08","FA":"151075","Name":"ALMENARA, SERGIO","COT":"0743","Speaker":"SP","Result":"UNAVAILABLE","Report":"","Pos":"","History":"","_id":{"$wrap":"$oid","v":253}}
+{"k":"0000000082","o":"0000000238","v":"001"}
+{"_id":254,"_uid":254,"_dt":1554760740172,"_s":"37e2c2dae4c7b5c46b761d5a7220f968"}
+{"RAP":"C*","GRP":"1","Sen":"25399","Callout":"","Begin":"1200/07","End":"0000/08","FA":"54769","Name":"VASILEVA, VIKTORIA","COT":"1238","Speaker":"","Result":"UNAVAILABLE","Report":"","Pos":"","History":"","_id":{"$wrap":"$oid","v":254}}
+{"k":"0000000082","o":"0000000234","v":"001"}
+{"_id":255,"_uid":255,"_dt":1554760740172,"_s":"6131a03f7d332b104bee8aab097cb8db"}
+{"RAP":"C*","GRP":"1","Sen":"25844","Callout":"","Begin":"1200/07","End":"0000/08","FA":"704882","Name":"MILLS, HOLLEE","COT":"2817","Speaker":"","Result":"UNAVAILABLE","Report":"","Pos":"","History":"","_id":{"$wrap":"$oid","v":255}}
+{"k":"0000000082","o":"0000000235","v":"001"}
+{"_id":256,"_uid":256,"_dt":1554760740172,"_s":"f65eb3a683cc847806239ec4985b5bd3"}
+{"RAP":"C*","GRP":"1","Sen":"25980","Callout":"","Begin":"1200/07","End":"0000/08","FA":"703856","Name":"HARRIS, AMELIA","COT":"1536","Speaker":"","Result":"UNAVAILABLE","Report":"","Pos":"","History":"","_id":{"$wrap":"$oid","v":256}}
+{"k":"0000000082","o":"0000000238","v":"001"}
+{"_id":257,"_uid":257,"_dt":1554760740172,"_s":"84f3bce6a23d6ef87e28930cb2f74a32"}
+{"RAP":"C*","GRP":"1","Sen":"26988","Callout":"","Begin":"1200/07","End":"0000/08","FA":"724675","Name":"RUIZ, CHRISTOPHER","COT":"1909","Speaker":"","Result":"UNAVAILABLE","Report":"","Pos":"","History":"","_id":{"$wrap":"$oid","v":257}}
+{"k":"0000000082","o":"0000000241","v":"001"}
+{"_id":258,"_uid":258,"_dt":1554760740172,"_s":"5dd09f8e3a428661a309b3356138db10"}
+{"RAP":"C*","GRP":"1","Sen":"26995","Callout":"","Begin":"1200/07","End":"0000/08","FA":"723831","Name":"TORRES BURGOS, ROGER","COT":"4013","Speaker":"","Result":"UNAVAILABLE","Report":"","Pos":"","History":"","_id":{"$wrap":"$oid","v":258}}
+{"k":"0000000082","o":"0000000245","v":"001"}
+{"_id":259,"_uid":259,"_dt":1554760740173,"_s":"b49fe70648b9afbc5f79879d3d2cb932"}
+{"RAP":"D*","GRP":"1","Sen":"26071","Callout":"","Begin":"1600/07","End":"0400/08","FA":"705704","Name":"LABRIOLA, MICHELLE","COT":"1311","Speaker":"","Result":"31696/08","Report":"1657/08","Pos":"01","History":"","_id":{"$wrap":"$oid","v":259}}
+{"k":"0000000082","o":"0000000238","v":"001"}
+{"_id":260,"_uid":260,"_dt":1554760740173,"_s":"6d8e30fc536399de24c2703584f457d0"}
+{"RAP":"A","GRP":"1","Sen":"19863","Callout":"","Begin":"0300/08","End":"1500/08","FA":"151075","Name":"ALMENARA, SERGIO","COT":"0743","Speaker":"SP","Result":"UNAVAILABLE","Report":"","Pos":"","History":"","_id":{"$wrap":"$oid","v":260}}
+{"k":"0000000082","o":"0000000245","v":"001"}
+{"_id":261,"_uid":261,"_dt":1554760740173,"_s":"050814f39c401112d4b93c2dd680f12a"}
+{"RAP":"A","GRP":"1","Sen":"23076","Callout":"","Begin":"0300/08","End":"1500/08","FA":"776125","Name":"TRAINOR, KATHERINE","COT":"7553","Speaker":"","Result":"UNAVAILABLE","Report":"","Pos":"","History":"5714/08","_id":{"$wrap":"$oid","v":261}}
+{"k":"0000000082","o":"0000000235","v":"001"}
+{"_id":262,"_uid":262,"_dt":1554760740173,"_s":"1112a546a8c923e3fef01d3bd921a6e3"}
+{"RAP":"A","GRP":"1","Sen":"23179","Callout":"","Begin":"0300/08","End":"1500/08","FA":"777496","Name":"RUSSELL, LAUREN","COT":"0356","Speaker":"","Result":"UNAVAILABLE","Report":"","Pos":"","History":"","_id":{"$wrap":"$oid","v":262}}
+{"k":"0000000082","o":"0000000243","v":"001"}
+{"_id":263,"_uid":263,"_dt":1554760740174,"_s":"e69c8a78eee73c9d4b033888b898c05f"}
+{"RAP":"A","GRP":"1","Sen":"24444","Callout":"","Begin":"0300/08","End":"1500/08","FA":"823503","Name":"SCHWISOW, TYLER","COT":"2000","Speaker":"","Result":"UNAVAILABLE","Report":"","Pos":"","History":"19472/08","_id":{"$wrap":"$oid","v":263}}
+{"k":"0000000082","o":"0000000245","v":"001"}
+{"_id":264,"_uid":264,"_dt":1554760740174,"_s":"375ee370561bdf80e0d5b14aac8b06d8"}
+{"RAP":"A","GRP":"1","Sen":"25399","Callout":"","Begin":"0300/08","End":"1500/08","FA":"54769","Name":"VASILEVA, VIKTORIA","COT":"1238","Speaker":"","Result":"UNAVAILABLE","Report":"","Pos":"","History":"31639/08","_id":{"$wrap":"$oid","v":264}}
+{"k":"0000000082","o":"0000000246","v":"001"}
+{"_id":265,"_uid":265,"_dt":1554760740174,"_s":"be83ff6ec78b883ba2f0f6f590f0402b"}
+{"RAP":"A","GRP":"1","Sen":"25633","Callout":"","Begin":"0300/08","End":"1500/08","FA":"700365","Name":"MCELROY, CHARLOTTE","COT":"2628","Speaker":"","Result":"UNAVAILABLE","Report":"","Pos":"","History":"31586/08","_id":{"$wrap":"$oid","v":265}}
+{"k":"0000000082","o":"0000000235","v":"001"}
+{"_id":266,"_uid":266,"_dt":1554760740175,"_s":"f120dfe45a60e38715128e1af45aa767"}
+{"RAP":"A","GRP":"1","Sen":"25646","Callout":"","Begin":"0300/08","End":"1500/08","FA":"700363","Name":"CORBITT, CLAIRE","COT":"2203","Speaker":"","Result":"UNAVAILABLE","Report":"","Pos":"","History":"","_id":{"$wrap":"$oid","v":266}}
+{"k":"0000000082","o":"0000000240","v":"001"}
+{"_id":267,"_uid":267,"_dt":1554760740175,"_s":"110aa1b44f5b8dfed5b9f53ae24b7174"}
+{"RAP":"A","GRP":"1","Sen":"25847","Callout":"","Begin":"0300/08","End":"1500/08","FA":"702411","Name":"MYLES, HANNA","COT":"1027","Speaker":"","Result":"UNAVAILABLE","Report":"","Pos":"","History":"31588/08","_id":{"$wrap":"$oid","v":267}}
+{"k":"0000000082","o":"0000000244","v":"001"}
+{"_id":268,"_uid":268,"_dt":1554760740175,"_s":"0cccca236810699975708c2b3608f81f"}
+{"RAP":"A","GRP":"1","Sen":"25870","Callout":"","Begin":"0300/08","End":"1500/08","FA":"704866","Name":"ONEAL, CHARLOTTE","COT":"3328","Speaker":"","Result":"UNAVAILABLE","Report":"","Pos":"","History":"31587/08","_id":{"$wrap":"$oid","v":268}}
+{"k":"0000000082","o":"0000000243","v":"001"}
+{"_id":269,"_uid":269,"_dt":1554760740176,"_s":"5fd1e43d3a4a212254e86618f37f4ca6"}
+{"RAP":"A","GRP":"1","Sen":"25880","Callout":"","Begin":"0300/08","End":"1500/08","FA":"704730","Name":"ASCHE, PATRICIA","COT":"2813","Speaker":"","Result":"UNAVAILABLE","Report":"","Pos":"","History":"31586/08","_id":{"$wrap":"$oid","v":269}}
+{"k":"0000000082","o":"0000000237","v":"001"}
+{"_id":270,"_uid":270,"_dt":1554760740176,"_s":"ad7d9b4c8222349059c913ca7d9d748f"}
+{"RAP":"A","GRP":"1","Sen":"25887","Callout":"","Begin":"0300/08","End":"1500/08","FA":"706306","Name":"VICK, CODY","COT":"2847","Speaker":"","Result":"UNAVAILABLE","Report":"","Pos":"","History":"5812/08","_id":{"$wrap":"$oid","v":270}}
+{"k":"0000000082","o":"0000000238","v":"001"}
+{"_id":271,"_uid":271,"_dt":1554760740176,"_s":"5f770ddbf559d02528c7031f0ad7b4eb"}
+{"RAP":"A","GRP":"1","Sen":"25915","Callout":"","Begin":"0319/08","End":"1500/08","FA":"702378","Name":"LIU, YIJIA","COT":"2816","Speaker":"","Result":"UNAVAILABLE","Report":"","Pos":"","History":"31586/08","_id":{"$wrap":"$oid","v":271}}
+{"k":"0000000082","o":"0000000239","v":"001"}
+{"_id":272,"_uid":272,"_dt":1554760740176,"_s":"ee40b3c2be1b37a0a4c0c4e1a715d64d"}
+{"RAP":"A","GRP":"1","Sen":"25964","Callout":"","Begin":"0300/08","End":"1500/08","FA":"702459","Name":"RIVERS, CODY","COT":"3820","Speaker":"","Result":"UNAVAILABLE","Report":"","Pos":"","History":"5723/08","_id":{"$wrap":"$oid","v":272}}
+{"k":"0000000082","o":"0000000234","v":"001"}
+{"_id":273,"_uid":273,"_dt":1554760740176,"_s":"f554b04c1576575f388a79b2046b3363"}
+{"RAP":"A","GRP":"1","Sen":"25980","Callout":"","Begin":"0300/08","End":"1500/08","FA":"703856","Name":"HARRIS, AMELIA","COT":"1015","Speaker":"","Result":"UNAVAILABLE","Report":"","Pos":"","History":"","_id":{"$wrap":"$oid","v":273}}
+{"k":"0000000082","o":"0000000241","v":"001"}
+{"_id":274,"_uid":274,"_dt":1554760740177,"_s":"d080199ae7ec633dc39cd0c6531e8b31"}
+{"RAP":"A","GRP":"1","Sen":"26028","Callout":"","Begin":"0300/08","End":"1500/08","FA":"707060","Name":"OLSON, AMANDA","COT":"2233","Speaker":"","Result":"UNAVAILABLE","Report":"","Pos":"","History":"21214/08","_id":{"$wrap":"$oid","v":274}}
+{"k":"0000000082","o":"0000000245","v":"001"}
+{"_id":275,"_uid":275,"_dt":1554760740177,"_s":"4018ba231f4a5810ad4616c221633bff"}
+{"RAP":"A","GRP":"1","Sen":"26034","Callout":"","Begin":"0300/08","End":"1500/08","FA":"704854","Name":"ROTHFIELD, NICOLE","COT":"2345","Speaker":"","Result":"UNAVAILABLE","Report":"","Pos":"","History":"31586/08","_id":{"$wrap":"$oid","v":275}}
+{"k":"0000000082","o":"0000000241","v":"001"}
+{"_id":276,"_uid":276,"_dt":1554760740177,"_s":"63fe4788191758e773245266a654e38b"}
+{"RAP":"A","GRP":"1","Sen":"26299","Callout":"","Begin":"0300/08","End":"1500/08","FA":"707440","Name":"THOMAS, ELLEN","COT":"1958","Speaker":"","Result":"UNAVAILABLE","Report":"","Pos":"","History":"31587/08","_id":{"$wrap":"$oid","v":276}}
+{"k":"0000000082","o":"0000000236","v":"001"}
+{"_id":277,"_uid":277,"_dt":1554760740177,"_s":"efd8bad6a0d91f6fe2ad7d3a1c934b9a"}
+{"RAP":"A","GRP":"1","Sen":"26734","Callout":"","Begin":"0300/08","End":"1500/08","FA":"714945","Name":"HOWELL, STEFANIE","COT":"1609","Speaker":"","Result":"UNAVAILABLE","Report":"","Pos":"","History":"","_id":{"$wrap":"$oid","v":277}}
+{"k":"0000000082","o":"0000000237","v":"001"}
+{"_id":278,"_uid":278,"_dt":1554760740178,"_s":"8a8d5913cb4cb97e06b8acc7e83b6894"}
+{"RAP":"A","GRP":"1","Sen":"26988","Callout":"","Begin":"0300/08","End":"1500/08","FA":"724675","Name":"RUIZ, CHRISTOPHER","COT":"1319","Speaker":"","Result":"UNAVAILABLE","Report":"","Pos":"","History":"","_id":{"$wrap":"$oid","v":278}}
+{"k":"0000000082","o":"0000000235","v":"001"}
+{"_id":279,"_uid":279,"_dt":1554760740178,"_s":"05b5b397173be3eae175d34e4220fce0"}
+{"RAP":"A","GRP":"2","Sen":"25842","Callout":"","Begin":"0300/08","End":"1500/08","FA":"703322","Name":"RIDDLE, KATHRYN","COT":"0840","Speaker":"","Result":"UNAVAILABLE","Report":"","Pos":"","History":"","_id":{"$wrap":"$oid","v":279}}
+{"k":"0000000082","o":"0000000234","v":"001"}
+{"_id":280,"_uid":280,"_dt":1554760740178,"_s":"1759e27fbd003b5c6261d25298f36818"}
+{"RAP":"A","GRP":"4","Sen":"23126","Callout":"","Begin":"0300/08","End":"1500/08","FA":"776940","Name":"YEUNG, PUI MAN","COT":"1832","Speaker":"","Result":"UNAVAILABLE","Report":"","Pos":"","History":"","_id":{"$wrap":"$oid","v":280}}
+{"k":"0000000082","o":"0000000238","v":"001"}
+{"_id":281,"_uid":281,"_dt":1554760740178,"_s":"33dfbad27ce546e9b8dea673d59f3ab9"}
+{"RAP":"A","GRP":"4","Sen":"23364","Callout":"","Begin":"0300/08","End":"1500/08","FA":"767238","Name":"WOODWARD, SAMANTHA","COT":"1747","Speaker":"","Result":"UNAVAILABLE","Report":"","Pos":"","History":"","_id":{"$wrap":"$oid","v":281}}
+{"k":"0000000082","o":"0000000243","v":"001"}
+{"_id":282,"_uid":282,"_dt":1554760740179,"_s":"8ad2658f1d4d7296d7f0fb43a969b0cc"}
+{"RAP":"A","GRP":"4","Sen":"25331","Callout":"","Begin":"0300/08","End":"1500/08","FA":"51607","Name":"MC DANIEL, KAITLIN","COT":"0515","Speaker":"","Result":"UNAVAILABLE","Report":"","Pos":"","History":"STBY/6","_id":{"$wrap":"$oid","v":282}}
+{"k":"0000000082","o":"0000000236","v":"001"}
+{"_id":283,"_uid":283,"_dt":1554760740179,"_s":"491d8cada54a6e8af0e8f8a35c08c511"}
+{"RAP":"A","GRP":"5","Sen":"23154","Callout":"","Begin":"0300/08","End":"1500/08","FA":"777479","Name":"LE DUC, MICHELLE","COT":"1026","Speaker":"","Result":"UNAVAILABLE","Report":"","Pos":"","History":"","_id":{"$wrap":"$oid","v":283}}
+{"k":"0000000082","o":"0000000241","v":"001"}
+{"_id":284,"_uid":284,"_dt":1554760740179,"_s":"7f9c04fcfcd84548d3efea173852591d"}
+{"RAP":"A","GRP":"5","Sen":"25364","Callout":"","Begin":"0300/08","End":"1500/08","FA":"52845","Name":"BECERRA, ANDRES","COT":"3357","Speaker":"","Result":"UNAVAILABLE","Report":"","Pos":"","History":"5813/08","_id":{"$wrap":"$oid","v":284}}
+{"k":"0000000082","o":"0000000233","v":"001"}
+{"_id":285,"_uid":285,"_dt":1554760740180,"_s":"c17ad615936fbd7570c02dce1e77f87e"}
+{"RAP":"A","GRP":"6","Sen":"25346","Callout":"","Begin":"0300/08","End":"1500/08","FA":"51646","Name":"BODIKER, ERICA","COT":"1543","Speaker":"","Result":"UNAVAILABLE","Report":"","Pos":"","History":"","_id":{"$wrap":"$oid","v":285}}
+{"k":"0000000082","o":"0000000245","v":"001"}
+{"_id":286,"_uid":286,"_dt":1554760740180,"_s":"6fd19cbe2509cdc4d195ea41e93f95b7"}
+{"RAP":"B","GRP":"1","Sen":"19202","Callout":"","Begin":"0700/08","End":"1900/08","FA":"115354","Name":"AMBROSINO, BENJAMIN","COT":"2652","Speaker":"","Result":"31696/08","Report":"1657/08","Pos":"04","History":"","_id":{"$wrap":"$oid","v":286}}
+{"k":"0000000082","o":"0000000222","v":"001"}
+{"_id":287,"_uid":287,"_dt":1554760740180,"_s":"94751b61ffd4badbaf336c3fe62931d2"}
+{"RAP":"B","GRP":"1","Sen":"23189","Callout":"1","Begin":"0700/08","End":"1900/08","FA":"343830","Name":"HILL, LURAIN","COT":"2653","Speaker":"","Result":"","Report":"","Pos":"","History":"","_id":{"$wrap":"$oid","v":287}}
+{"k":"0000000082","o":"0000000226","v":"001"}
+{"_id":288,"_uid":288,"_dt":1554760740180,"_s":"825b7127f5e87268baae105a3585a3de"}
+{"RAP":"B","GRP":"1","Sen":"25690","Callout":"2","Begin":"0700/08","End":"1900/08","FA":"660777","Name":"ESHELMAN, HANNAH","COT":"1129","Speaker":"","Result":"","Report":"","Pos":"","History":"","_id":{"$wrap":"$oid","v":288}}
+{"k":"0000000082","o":"0000000223","v":"001"}
+{"_id":289,"_uid":289,"_dt":1554760740181,"_s":"f9bc258eeb0d63dc9c58501db29896c3"}
+{"RAP":"B","GRP":"1","Sen":"25844","Callout":"3","Begin":"0700/08","End":"1900/08","FA":"704882","Name":"MILLS, HOLLEE","COT":"2817","Speaker":"","Result":"","Report":"","Pos":"","History":"","_id":{"$wrap":"$oid","v":289}}
+{"k":"0000000082","o":"0000000244","v":"001"}
+{"_id":290,"_uid":290,"_dt":1554760740181,"_s":"7cb7b54c33c94be1034630d5862e9538"}
+{"RAP":"B","GRP":"1","Sen":"26071","Callout":"","Begin":"0700/08","End":"1900/08","FA":"705704","Name":"LABRIOLA, MICHELLE","COT":"1311","Speaker":"","Result":"31696/08","Report":"1657/08","Pos":"01","History":"","_id":{"$wrap":"$oid","v":290}}
+{"k":"0000000082","o":"0000000223","v":"001"}
+{"_id":291,"_uid":291,"_dt":1554760740181,"_s":"ee6871955286cf0a4f36fb486b06511c"}
+{"RAP":"B","GRP":"1","Sen":"26097","Callout":"4","Begin":"0700/08","End":"1900/08","FA":"708510","Name":"AKERS, ALYSSA","COT":"2240","Speaker":"","Result":"","Report":"","Pos":"","History":"","_id":{"$wrap":"$oid","v":291}}
+{"k":"0000000082","o":"0000000227","v":"001"}
+{"_id":292,"_uid":292,"_dt":1554760740181,"_s":"8e65630f559037c7317da69693cd51a1"}
+{"RAP":"B","GRP":"1","Sen":"26735","Callout":"5","Begin":"0700/08","End":"1900/08","FA":"718584","Name":"SULLIVAN, SHANNON","COT":"2504","Speaker":"","Result":"","Report":"","Pos":"","History":"","_id":{"$wrap":"$oid","v":292}}
+{"k":"0000000082","o":"0000000231","v":"001"}
+{"_id":293,"_uid":293,"_dt":1554760740181,"_s":"7a3839547e8c93e9cb5bf78f5857e5c6"}
+{"RAP":"B","GRP":"3","Sen":"21483","Callout":"6","Begin":"0700/08","End":"1900/08","FA":"428694","Name":"ALFINI, CHRISTY","COT":"1515","Speaker":"","Result":"","Report":"","Pos":"","History":"STBY/6","_id":{"$wrap":"$oid","v":293}}
+{"k":"0000000082","o":"0000000223","v":"001"}
+{"_id":294,"_uid":294,"_dt":1554760740182,"_s":"45417ff8c9a2a801eda55a1cb531ccf2"}
+{"RAP":"B","GRP":"5","Sen":"18430","Callout":"7","Begin":"0700/08","End":"1900/08","FA":"109042","Name":"KARCHER, LISA","COT":"1000","Speaker":"","Result":"","Report":"","Pos":"","History":"","_id":{"$wrap":"$oid","v":294}}
+{"k":"0000000082","o":"0000000232","v":"001"}
+{"_id":295,"_uid":295,"_dt":1554760740182,"_s":"fdf21563d42d4b5d6d4a6a97b7c5f386"}
+{"RAP":"B","GRP":"6","Sen":"21180","Callout":"8","Begin":"0700/08","End":"1900/08","FA":"446078","Name":"WULLENJOHN, MARY","COT":"1532","Speaker":"","Result":"","Report":"","Pos":"","History":"STBY/6","_id":{"$wrap":"$oid","v":295}}
+{"k":"0000000082","o":"0000000235","v":"001"}
+{"_id":296,"_uid":296,"_dt":1554760740182,"_s":"9bb12485b7987fb36b289b62adcae19e"}
+{"RAP":"C","GRP":"1","Sen":"14490","Callout":"1","Begin":"1200/08","End":"0000/09","FA":"150658","Name":"WORKMAN, CHARLOTTE","COT":"1624","Speaker":"","Result":"","Report":"","Pos":"","History":"5773/08","_id":{"$wrap":"$oid","v":296}}
+{"k":"0000000082","o":"0000000232","v":"001"}
+{"_id":297,"_uid":297,"_dt":1554760740182,"_s":"d3de5ebbdb501e1f8ae440cbe19ab0ef"}
+{"RAP":"C","GRP":"1","Sen":"25622","Callout":"2","Begin":"1200/08","End":"0000/09","FA":"700888","Name":"PARSONS, JHETT","COT":"3358","Speaker":"","Result":"","Report":"","Pos":"","History":"21232/08","_id":{"$wrap":"$oid","v":297}}
+{"k":"0000000082","o":"0000000222","v":"001"}
+{"_id":298,"_uid":298,"_dt":1554760740182,"_s":"28823ce494e508658784c96e0d673cac"}
+{"RAP":"C","GRP":"1","Sen":"25982","Callout":"3","Begin":"1200/08","End":"2359/08","FA":"709800","Name":"TORPHY, KARA","COT":"1850","Speaker":"","Result":"","Report":"","Pos":"","History":"","_id":{"$wrap":"$oid","v":298}}
+{"k":"0000000082","o":"0000000229","v":"001"}
+{"_id":299,"_uid":299,"_dt":1554760740183,"_s":"c1f1b5c2ddbf7da1ff87c0a6773064cf"}
+{"RAP":"C","GRP":"1","Sen":"26941","Callout":"4","Begin":"1200/08","End":"2359/08","FA":"724847","Name":"THIEME SKLAR, ROBYN","COT":"2008","Speaker":"","Result":"","Report":"","Pos":"","History":"","_id":{"$wrap":"$oid","v":299}}
+{"k":"0000000082","o":"0000000232","v":"001"}
+{"_id":300,"_uid":300,"_dt":1554760740183,"_s":"aba0973f4fbf16d5b576293cd4ba57f8"}
+{"RAP":"C","GRP":"2","Sen":"26942","Callout":"5","Begin":"1200/08","End":"0000/09","FA":"724061","Name":"STEMPORA, PAMELA","COT":"2419","Speaker":"","Result":"","Report":"","Pos":"","History":"STBY/6","_id":{"$wrap":"$oid","v":300}}
+{"k":"0000000082","o":"0000000243","v":"001"}
+{"_id":301,"_uid":301,"_dt":1554760740183,"_s":"5448492cb10a9973c2274075ee237da8"}
+{"RAP":"C","GRP":"3","Sen":"21092","Callout":"","Begin":"1200/08","End":"0000/09","FA":"462132","Name":"D AMBRA, VICTORIA","COT":"2353","Speaker":"","Result":"UNAVAILABLE","Report":"","Pos":"","History":"STBY/6","_id":{"$wrap":"$oid","v":301}}
+{"k":"0000000082","o":"0000000240","v":"001"}
+{"_id":302,"_uid":302,"_dt":1554760740183,"_s":"be35d0ed776a355e01b699408b36fa84"}
+{"RAP":"C","GRP":"4","Sen":"18500","Callout":"","Begin":"1200/08","End":"0000/09","FA":"507218","Name":"JACKSON, TIMIYA","COT":"1532","Speaker":"","Result":"5765/08","Report":"2119/08","Pos":"01","History":"","_id":{"$wrap":"$oid","v":302}}
+{"k":"0000000082","o":"0000000226","v":"001"}
+{"_id":303,"_uid":303,"_dt":1554760740183,"_s":"4fb20353b14d620e03a991aeefcbe83a"}
+{"RAP":"D","GRP":"1","Sen":"18843","Callout":"1","Begin":"1600/08","End":"2359/08","FA":"349142","Name":"MCLEOD, JENNIFER","COT":"2432","Speaker":"","Result":"","Report":"","Pos":"","History":"","_id":{"$wrap":"$oid","v":303}}
+{"k":"0000000082","o":"0000000225","v":"001"}
+{"_id":304,"_uid":304,"_dt":1554760740183,"_s":"c9cb3261af1a011a05874de0ced65925"}
+{"RAP":"D","GRP":"1","Sen":"26031","Callout":"2","Begin":"1600/08","End":"2359/08","FA":"701000","Name":"HERRING, AUDREY","COT":"1515","Speaker":"","Result":"","Report":"","Pos":"","History":"","_id":{"$wrap":"$oid","v":304}}
+{"k":"0000000082","o":"0000000224","v":"001"}
+{"_id":305,"_uid":305,"_dt":1554760740184,"_s":"7e8050e1193a81c1d2631a23c7ca26f2"}
+{"RAP":"D","GRP":"2","Sen":"18415","Callout":"3","Begin":"1600/08","End":"0400/09","FA":"544018","Name":"TOWNER, BROOKE","COT":"1530","Speaker":"","Result":"","Report":"","Pos":"","History":"","_id":{"$wrap":"$oid","v":305}}
+{"k":"0000000082","o":"0000000214","v":"001"}
+{"_id":306,"_uid":306,"_dt":1554760740184,"_s":"37f69960bab7be0e2abde02685d9847c"}
+{"RAP":"","GRP":"1","Sen":"21167","Callout":"1","Begin":"","End":"","FA":"178756","Name":"WHITEHURST, WILLIAM","COT":"1949","Speaker":"","Result":"","Report":"","Pos":"","History":"","_id":{"$wrap":"$oid","v":306}}
+{"k":"0000000082","o":"0000000209","v":"001"}
+{"_id":307,"_uid":307,"_dt":1554760740184,"_s":"c6c876bf5d777efba51d1fc77b29feab"}
+{"RAP":"","GRP":"1","Sen":"25340","Callout":"2","Begin":"","End":"","FA":"51660","Name":"MCNEILL, MARIAH","COT":"1330","Speaker":"","Result":"","Report":"","Pos":"","History":"","_id":{"$wrap":"$oid","v":307}}
+{"k":"0000000082","o":"0000000210","v":"001"}
+{"_id":308,"_uid":308,"_dt":1554760740184,"_s":"1c7a6de3d7814216d16a13b794bb3c8c"}
+{"RAP":"","GRP":"1","Sen":"25390","Callout":"3","Begin":"","End":"","FA":"53508","Name":"HEDLUND, CHELSEA","COT":"2138","Speaker":"","Result":"","Report":"","Pos":"","History":"","_id":{"$wrap":"$oid","v":308}}
+{"k":"0000000082","o":"0000000215","v":"001"}
+{"_id":309,"_uid":309,"_dt":1554760740185,"_s":"baeaff5497b7658e2802f2e61c5c0a8b"}
+{"RAP":"","GRP":"1","Sen":"25583","Callout":"4","Begin":"","End":"","FA":"695440","Name":"PANYATHEERA, TANAWAT","COT":"3832","Speaker":"","Result":"","Report":"","Pos":"","History":"","_id":{"$wrap":"$oid","v":309}}
+{"k":"0000000082","o":"0000000208","v":"001"}
+{"_id":310,"_uid":310,"_dt":1554760740185,"_s":"ef449c7e1a300992962a814d5e61d9d3"}
+{"RAP":"","GRP":"1","Sen":"25637","Callout":"5","Begin":"","End":"","FA":"705260","Name":"MOORE, ALANNA","COT":"2752","Speaker":"","Result":"","Report":"","Pos":"","History":"","_id":{"$wrap":"$oid","v":310}}
+{"k":"0000000082","o":"0000000208","v":"001"}
+{"_id":311,"_uid":311,"_dt":1554760740185,"_s":"24fa77d0051ee0f3ded88a18b69119b2"}
+{"RAP":"","GRP":"1","Sen":"25637","Callout":"6","Begin":"","End":"","FA":"705260","Name":"MOORE, ALANNA","COT":"2752","Speaker":"","Result":"","Report":"","Pos":"","History":"","_id":{"$wrap":"$oid","v":311}}
+{"k":"0000000082","o":"0000000208","v":"001"}
+{"_id":312,"_uid":312,"_dt":1554760740185,"_s":"fb6300a06de94d12847b10706c540de9"}
+{"RAP":"","GRP":"1","Sen":"25881","Callout":"7","Begin":"","End":"","FA":"704380","Name":"WHITNEY, SARA","COT":"2821","Speaker":"","Result":"","Report":"","Pos":"","History":"","_id":{"$wrap":"$oid","v":312}}
+{"k":"0000000082","o":"0000000230","v":"001"}
+{"_id":313,"_uid":313,"_dt":1554760740185,"_s":"eae24441e07c8031d50e0c361a8b2aa2"}
+{"RAP":"","GRP":"1","Sen":"25923","Callout":"","Begin":"","End":"","FA":"706324","Name":"RODRIGUEZ COMULADA, AMBAR","COT":"2605","Speaker":"","Result":"UNAVAILABLE","Report":"","Pos":"","History":"","_id":{"$wrap":"$oid","v":313}}
+{"k":"0000000082","o":"0000000211","v":"001"}
+{"_id":314,"_uid":314,"_dt":1554760740185,"_s":"41c512f51890ca5d6dad17e369d62579"}
+{"RAP":"","GRP":"1","Sen":"25966","Callout":"8","Begin":"","End":"","FA":"702404","Name":"LOUALLEN, BAILEY","COT":"2901","Speaker":"","Result":"","Report":"","Pos":"","History":"","_id":{"$wrap":"$oid","v":314}}
+{"k":"0000000082","o":"0000000211","v":"001"}
+{"_id":315,"_uid":315,"_dt":1554760740186,"_s":"5c6d30108e5f5547b0a80831c3411c97"}
+{"RAP":"","GRP":"1","Sen":"25987","Callout":"9","Begin":"","End":"","FA":"708522","Name":"HARVEY, MICHELLE","COT":"3253","Speaker":"","Result":"","Report":"","Pos":"","History":"","_id":{"$wrap":"$oid","v":315}}
+{"k":"0000000082","o":"0000000213","v":"001"}
+{"_id":316,"_uid":316,"_dt":1554760740186,"_s":"19eb355f5d39aae828456ec09cae7531"}
+{"RAP":"","GRP":"1","Sen":"26932","Callout":"10","Begin":"","End":"","FA":"713559","Name":"BRUMAGIM, ABIGAIL","COT":"2631","Speaker":"","Result":"","Report":"","Pos":"","History":"","_id":{"$wrap":"$oid","v":316}}
+{"k":"0000000082","o":"0000000214","v":"001"}
+{"_id":317,"_uid":317,"_dt":1554760740186,"_s":"e849aedf5a1fcc78a25a2e7a7b55e97f"}
+{"RAP":"","GRP":"1","Sen":"26940","Callout":"11","Begin":"","End":"","FA":"724229","Name":"PATTERSON, KRISTEN","COT":"2636","Speaker":"","Result":"","Report":"","Pos":"","History":"","_id":{"$wrap":"$oid","v":317}}
+{"k":"0000000082","o":"0000000210","v":"001"}
+{"_id":318,"_uid":318,"_dt":1554760740186,"_s":"f87231d86b8361decdea66704cd6da30"}
+{"RAP":"","GRP":"2","Sen":"20191","Callout":"12","Begin":"","End":"","FA":"525871","Name":"SHANKS, THOMAS","COT":"2558","Speaker":"","Result":"","Report":"","Pos":"","History":"","_id":{"$wrap":"$oid","v":318}}
+{"k":"0000000082","o":"0000000210","v":"001"}
+{"_id":319,"_uid":319,"_dt":1554760740187,"_s":"1d70029516cd0438202dd5c7551b976c"}
+{"RAP":"","GRP":"2","Sen":"20202","Callout":"13","Begin":"","End":"","FA":"454699","Name":"HEREDIA, RANDY","COT":"8626","Speaker":"","Result":"","Report":"","Pos":"","History":"","_id":{"$wrap":"$oid","v":319}}
+{"k":"0000000082","o":"0000000213","v":"001"}
+{"_id":320,"_uid":320,"_dt":1554760740187,"_s":"9a8610d42f8c7080c4cceb8dea74db40"}
+{"RAP":"","GRP":"2","Sen":"21300","Callout":"14","Begin":"","End":"","FA":"353850","Name":"CAMPBELL, ANTONIO","COT":"2056","Speaker":"","Result":"","Report":"","Pos":"","History":"","_id":{"$wrap":"$oid","v":320}}
+{"k":"0000000082","o":"0000000210","v":"001"}
+{"_id":321,"_uid":321,"_dt":1554760740187,"_s":"fae19c6867bccc0c7541c01a7c194c64"}
+{"RAP":"","GRP":"2","Sen":"25611","Callout":"15","Begin":"","End":"","FA":"687200","Name":"CLAYTON, CASEY","COT":"3310","Speaker":"","Result":"","Report":"","Pos":"","History":"","_id":{"$wrap":"$oid","v":321}}
+{"k":"0000000082","o":"0000000217","v":"001"}
+{"_id":322,"_uid":322,"_dt":1554760740187,"_s":"fcd33f7f53106768e263dc4ae298ed47"}
+{"RAP":"","GRP":"2","Sen":"25936","Callout":"","Begin":"","End":"","FA":"703595","Name":"DYKES, JANEI","COT":"2616","Speaker":"","Result":"UNAVAILABLE","Report":"","Pos":"","History":"","_id":{"$wrap":"$oid","v":322}}
+{"k":"0000000082","o":"0000000213","v":"001"}
+{"_id":323,"_uid":323,"_dt":1554760740187,"_s":"8ebb4734b7ad9b3bb183fccf3ad3d1c1"}
+{"RAP":"","GRP":"2","Sen":"25972","Callout":"16","Begin":"","End":"","FA":"704887","Name":"WILLIAMS, HEATHER","COT":"1752","Speaker":"","Result":"","Report":"","Pos":"","History":"","_id":{"$wrap":"$oid","v":323}}
+{"k":"0000000082","o":"0000000208","v":"001"}
+{"_id":324,"_uid":324,"_dt":1554760740188,"_s":"6426b51f0ce4a09c9f3719f06ea266be"}
+{"RAP":"","GRP":"2","Sen":"25974","Callout":"17","Begin":"","End":"","FA":"703593","Name":"ESTEP, EMILY","COT":"3505","Speaker":"","Result":"","Report":"","Pos":"","History":"","_id":{"$wrap":"$oid","v":324}}
+{"k":"0000000082","o":"0000000209","v":"001"}
+{"_id":325,"_uid":325,"_dt":1554760740188,"_s":"519e5aa23eb3e8fba0c15d91cde7d390"}
+{"RAP":"","GRP":"2","Sen":"26977","Callout":"18","Begin":"","End":"","FA":"723384","Name":"PARKS, JARROD","COT":"3652","Speaker":"","Result":"","Report":"","Pos":"","History":"","_id":{"$wrap":"$oid","v":325}}
+{"k":"0000000082","o":"0000000216","v":"001"}
+{"_id":326,"_uid":326,"_dt":1554760740189,"_s":"640a08a76a1f45ba2052ea80ec5745e1"}
+{"RAP":"","GRP":"3","Sen":"25387","Callout":"19","Begin":"","End":"","FA":"55690","Name":"EICHENBERGER, HEATHER","COT":"2026","Speaker":"","Result":"","Report":"","Pos":"","History":"","_id":{"$wrap":"$oid","v":326}}
+{"k":"0000000082","o":"0000000211","v":"001"}
+{"_id":327,"_uid":327,"_dt":1554760740189,"_s":"effe6d065249d7317069731f9b1fae0c"}
+{"RAP":"","GRP":"3","Sen":"25454","Callout":"20","Begin":"","End":"","FA":"603474","Name":"RAINES, WHITNEY","COT":"3154","Speaker":"","Result":"","Report":"","Pos":"","History":"","_id":{"$wrap":"$oid","v":327}}
+{"k":"0000000082","o":"0000000208","v":"001"}
+{"_id":328,"_uid":328,"_dt":1554760740190,"_s":"0d42339b8830ede9210be120f83a37fe"}
+{"RAP":"","GRP":"3","Sen":"25629","Callout":"21","Begin":"","End":"","FA":"676113","Name":"NEWBY, KELLY","COT":"2001","Speaker":"","Result":"","Report":"","Pos":"","History":"","_id":{"$wrap":"$oid","v":328}}
+{"k":"0000000082","o":"0000000211","v":"001"}
+{"_id":329,"_uid":329,"_dt":1554760740190,"_s":"8f6d10c98e677aa9cae32bf41802957d"}
+{"RAP":"","GRP":"3","Sen":"25630","Callout":"22","Begin":"","End":"","FA":"702435","Name":"THOMAS, KAITLYN","COT":"2126","Speaker":"","Result":"","Report":"","Pos":"","History":"","_id":{"$wrap":"$oid","v":329}}
+{"k":"0000000082","o":"0000000212","v":"001"}
+{"_id":330,"_uid":330,"_dt":1554760740190,"_s":"d6d99d78bc0d3fc75d11a78b546b50e8"}
+{"RAP":"","GRP":"3","Sen":"25884","Callout":"23","Begin":"","End":"","FA":"703615","Name":"GALVIN, MARGARET","COT":"1400","Speaker":"","Result":"","Report":"","Pos":"","History":"","_id":{"$wrap":"$oid","v":330}}
+{"k":"0000000082","o":"0000000208","v":"001"}
+{"_id":331,"_uid":331,"_dt":1554760740191,"_s":"435d1d5af4100c3453d16a32e722f168"}
+{"RAP":"","GRP":"3","Sen":"26959","Callout":"24","Begin":"","End":"","FA":"766697","Name":"ROACH, BRITT","COT":"1954","Speaker":"","Result":"","Report":"","Pos":"","History":"","_id":{"$wrap":"$oid","v":331}}
+{"k":"0000000082","o":"0000000213","v":"001"}
+{"_id":332,"_uid":332,"_dt":1554760740191,"_s":"a5126716bc65e9f93ca3f56232ded390"}
+{"RAP":"","GRP":"3","Sen":"27002","Callout":"25","Begin":"","End":"","FA":"724672","Name":"TURNER, DARCENTIA","COT":"2033","Speaker":"","Result":"","Report":"","Pos":"","History":"","_id":{"$wrap":"$oid","v":332}}
+{"k":"0000000082","o":"0000000209","v":"001"}
+{"_id":333,"_uid":333,"_dt":1554760740205,"_s":"5d5aa968d3ca43b93f8d2c9bcbe59123"}
+{"RAP":"","GRP":"4","Sen":"25455","Callout":"26","Begin":"","End":"","FA":"598103","Name":"PARNELL, KERI","COT":"1030","Speaker":"","Result":"","Report":"","Pos":"","History":"","_id":{"$wrap":"$oid","v":333}}
