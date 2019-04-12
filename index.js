@@ -4,6 +4,11 @@ const express = require("express");
 const cheerio = require('cheerio')
 var Engine = require('tingodb')();
 var db = new Engine.Db(__dirname + '/db', {});
+var Server = require('mongodb').Server;
+var MongoClient = require('mongodb').MongoClient;
+
+var url = 'mongodb://localhost:27017/myproject';
+
 
 
 app = express();
@@ -35,27 +40,86 @@ function ExtractDataFromHTML(dataString){
             row[colums[i]] = $(tds[i]).text().trim();
         results.push(row);
     });
-    console.log(results);
+    //console.log(results);
     return results;
 
 }
 
 
 
-function updateDate(dataToSave){
-    var collection = db.collection("items");
-        collection.insert(dataToSave, {w:1}, function(err, result) {
-            console.log(err);
+function updateDate(dataToSave, base, report){
+
+    ////var mongoclient = new MongoClient(new Server("localhost", 27017), {native_parser: true});
+
+   ///// var MongoClient = require('mongodb').MongoClient
+  /////, Server = require('mongodb').Server;
+
+  var MongoClient = require('mongodb').MongoClient
+  , assert = require('assert');
+
+// Connection URL
+    var url = 'mongodb://localhost:27017/scrapper';
+    // Use connect method to connect to the Server
+    MongoClient.connect(url, function(err, db) {
+        var db = db.db("scrapper");
+        var collection  = db.collection("items");
+    
+        dataToSave.forEach(element => {
+            collection.findOne(element, function(err, item){
+                console.log("item11111", item);
+                if(!item){
+                    element.date = new Date();
+                    element.base = base;
+                    element.report = report;
+                    collection.insert(element, function(err, result) {
+                        console.log("EROROORROROROROROROORROROROROOROR", err);
+                    });
+                }
+            })
         });
+    });
 
 
+/*
+    var mongoClient = new MongoClient(new Server('localhost', 27017),  {native_parser: true});
+    mongoClient.open(function(err, mongoClient) {
+        var db1 = mongoClient.db("scrapper");
+        console.log("herererererererererererer");
+        mongoClient.close();
+    });
+
+
+    console.log("im herer");
+    // Open the connection to the server
+    mongoclient.open(function(err, mongoclient) {
+        console.log("errpr", err);
+        var db = mongoclient.db("scrapper");
+        var collection = db.collection('items')
+        dataToSave.forEach(element => {
+            collection.find(element, function(err, item){
+                console.log(err);
+                console.log(item);
+                if(!item){
+                    element.date = newDate();
+                    element.base = base;
+                    element.report = Report;
+                    collection.insert(element, function(err, result) {
+                        console.log(err);
+                    });
+                }
+            })
+        });
+    });
+
+    */
 }
 cron.schedule("* * * * *", function() {
-    getData(function(data){
+    getData('CLT', 'Aggresive' ,  function(data){
         console.log("getting data");
         dataToSave = ExtractDataFromHTML(data);
         ///console.log(dataToSave);
-        updateDate(dataToSave);
+        
+        updateDate(dataToSave, 'CLT', 'Aggresive');
     });
 });
 
@@ -63,12 +127,12 @@ let browser = null;
 let page = null;
 
 
-async function getData(callback){
+async function getData(base, report ,callback){
     ////console.log(callback);
     if(!browser || !page)
         await doLogin();
-    await page.select('#ddlCrewBase', 'CLT')
-    await page.select('#reportSelection', 'Aggresive')
+    await page.select('#ddlCrewBase', base)
+    await page.select('#reportSelection', report)
     await page.click('#ViewReport');
 
     selector = "#myReportTable"
@@ -79,7 +143,7 @@ async function getData(callback){
 
 async function doLogin(){
 
-    browser = await puppeteer.launch({headless: true, timeout: 0});
+    browser = await puppeteer.launch({headless: false, timeout: 0});
     page = await browser.newPage();
     await page.goto('https://faroms.aa.com/FAReserves/Reports/CalloutReports');
     
@@ -92,4 +156,15 @@ async function doLogin(){
     return;
 }
 
-app.listen(29000);
+app.post('/load-data/:base', function(req, res){
+    var ctl = req.params.base;
+
+//     $salt = "SASdsde333asdfsdSADppzx";
+// $xsession = ["userid" => $jetnet_userid, "password" => $password];
+// $xsession = json_encode($xsession);
+// $xsession = base64_encode($xsession);
+// $xsession = substr($salt, 0, 12).$xsession.substr($salt, 14, 7);
+
+});
+
+app.listen(3000);
