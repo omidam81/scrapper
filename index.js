@@ -49,15 +49,9 @@ function ExtractDataFromHTML(dataString){
 
 function updateDate(dataToSave, base, report){
 
-    ////var mongoclient = new MongoClient(new Server("localhost", 27017), {native_parser: true});
-
-   ///// var MongoClient = require('mongodb').MongoClient
-  /////, Server = require('mongodb').Server;
-
   var MongoClient = require('mongodb').MongoClient
   , assert = require('assert');
-
-// Connection URL
+    // Connection URL
     var url = 'mongodb://localhost:27017/scrapper';
     // Use connect method to connect to the Server
     MongoClient.connect(url, function(err, db) {
@@ -66,52 +60,17 @@ function updateDate(dataToSave, base, report){
     
         dataToSave.forEach(element => {
             collection.findOne(element, function(err, item){
-                console.log("item11111", item);
                 if(!item){
                     element.date = new Date();
                     element.base = base;
                     element.report = report;
                     collection.insert(element, function(err, result) {
-                        console.log("EROROORROROROROROROORROROROROOROR", err);
+                        console.log("", err);
                     });
                 }
             })
         });
     });
-
-
-/*
-    var mongoClient = new MongoClient(new Server('localhost', 27017),  {native_parser: true});
-    mongoClient.open(function(err, mongoClient) {
-        var db1 = mongoClient.db("scrapper");
-        console.log("herererererererererererer");
-        mongoClient.close();
-    });
-
-
-    console.log("im herer");
-    // Open the connection to the server
-    mongoclient.open(function(err, mongoclient) {
-        console.log("errpr", err);
-        var db = mongoclient.db("scrapper");
-        var collection = db.collection('items')
-        dataToSave.forEach(element => {
-            collection.find(element, function(err, item){
-                console.log(err);
-                console.log(item);
-                if(!item){
-                    element.date = newDate();
-                    element.base = base;
-                    element.report = Report;
-                    collection.insert(element, function(err, result) {
-                        console.log(err);
-                    });
-                }
-            })
-        });
-    });
-
-    */
 }
 cron.schedule("* * * * *", function() {
     getData('CLT', 'Aggresive' ,  function(data){
@@ -121,8 +80,15 @@ cron.schedule("* * * * *", function() {
         
         updateDate(dataToSave, 'CLT', 'Aggresive');
     });
-});
 
+    getData('CLT', 'Aggresive' ,  function(data){
+        console.log("getting data");
+        dataToSave = ExtractDataFromHTML(data);
+        ///console.log(dataToSave);
+        
+        updateDate(dataToSave, 'CLT', 'Assignment Sequence');
+    });
+});
 let browser = null;
 let page = null;
 
@@ -143,7 +109,7 @@ async function getData(base, report ,callback){
 
 async function doLogin(){
 
-    browser = await puppeteer.launch({headless: true, timeout: 0});
+    browser = await puppeteer.launch({headless: false, timeout: 0});
     page = await browser.newPage();
     await page.goto('https://faroms.aa.com/FAReserves/Reports/CalloutReports');
     
