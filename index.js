@@ -81,7 +81,7 @@ cron.schedule("* * * * *", function() {
         updateDate(dataToSave, 'CLT', 'Aggresive');
     });
 
-    getData('CLT', 'Aggresive' ,  function(data){
+    getData('CLT', 'Seq' ,  function(data){
         console.log("getting data");
         dataToSave = ExtractDataFromHTML(data);
         ///console.log(dataToSave);
