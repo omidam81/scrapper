@@ -104,14 +104,14 @@ cron.schedule("* * * * *", function() {
         dataToSave = ExtractDataFromHTML(data, '');
         ///console.log(dataToSave);
         
-        updateDate(dataToSave, 'CLT', 'Aggresive', data);
+        updateDate(dataToSave, 'CLT', 'Aggresive', date);
 
         getData('CLT', 'Seq' ,  function(data){
             console.log("getting data");
             dataToSave = ExtractDataFromHTML(data, 'Seq');
             ///console.log(dataToSave);
             
-            updateDate(dataToSave, 'CLT', 'Assignment Sequence', data);
+            updateDate(dataToSave, 'CLT', 'Assignment Sequence', date);
         });
     });
 
