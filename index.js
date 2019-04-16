@@ -72,7 +72,7 @@ function ExtractDataFromHTML(dataString, type){
 
 
 
-function updateDate(dataToSave, base, report){
+function updateDate(dataToSave, base, report, date){
 
   var MongoClient = require('mongodb').MongoClient
   , assert = require('assert');
@@ -86,7 +86,7 @@ function updateDate(dataToSave, base, report){
         dataToSave.forEach(element => {
             collection.findOne(element, function(err, item){
                 if(!item){
-                    element.date = new Date();
+                    element.date = date;
                     element.base = base;
                     element.report = report;
                     collection.insert(element, function(err, result) {
@@ -98,12 +98,13 @@ function updateDate(dataToSave, base, report){
     });
 }
 cron.schedule("* * * * *", function() {
+    let date = new Date();
     getData('CLT', 'Aggresive' ,  function(data){
         console.log("getting data");
         dataToSave = ExtractDataFromHTML(data, '');
         ///console.log(dataToSave);
         
-        updateDate(dataToSave, 'CLT', 'Aggresive');
+        updateDate(dataToSave, 'CLT', 'Aggresive', data);
     });
 
     getData('CLT', 'Seq' ,  function(data){
@@ -111,7 +112,7 @@ cron.schedule("* * * * *", function() {
         dataToSave = ExtractDataFromHTML(data, 'Seq');
         ///console.log(dataToSave);
         
-        updateDate(dataToSave, 'CLT', 'Assignment Sequence');
+        updateDate(dataToSave, 'CLT', 'Assignment Sequence', data);
     });
 });
 let browser = null;
