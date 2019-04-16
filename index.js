@@ -54,12 +54,13 @@ function ExtractDataFromHTML(dataString, type){
     datarows.each((item, val) => {
         let tds = $(val).find('td');
         var row = {};
-        for(var i =0; i< colums.length; i++)
-        {
-            let col = colums;
-            if(type == 'Seq') col = colums_seq;
+        
+        let col = colums;
+        if(type == 'Seq') col = colums_seq;
 
-            row[colums[i]] = $(tds[i]).text().trim();
+        for(var i =0; i< col.length; i++)
+        {
+            row[col[i]] = $(tds[i]).text().trim();
         }
             
         results.push(row);
@@ -133,7 +134,7 @@ async function getData(base, report ,callback){
 
 async function doLogin(){
 
-    browser = await puppeteer.launch({headless: true, timeout: 0});
+    browser = await puppeteer.launch({headless: false, timeout: 0});
     page = await browser.newPage();
     await page.goto('https://faroms.aa.com/FAReserves/Reports/CalloutReports');
     
