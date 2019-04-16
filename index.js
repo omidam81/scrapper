@@ -134,7 +134,7 @@ async function getData(base, report ,callback){
 
 async function doLogin(){
 
-    browser = await puppeteer.launch({headless: false, timeout: 0});
+    browser = await puppeteer.launch({headless: true, timeout: 0});
     page = await browser.newPage();
     await page.goto('https://faroms.aa.com/FAReserves/Reports/CalloutReports');
     
