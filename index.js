@@ -105,15 +105,17 @@ cron.schedule("* * * * *", function() {
         ///console.log(dataToSave);
         
         updateDate(dataToSave, 'CLT', 'Aggresive', data);
+
+        getData('CLT', 'Seq' ,  function(data){
+            console.log("getting data");
+            dataToSave = ExtractDataFromHTML(data, 'Seq');
+            ///console.log(dataToSave);
+            
+            updateDate(dataToSave, 'CLT', 'Assignment Sequence', data);
+        });
     });
 
-    getData('CLT', 'Seq' ,  function(data){
-        console.log("getting data");
-        dataToSave = ExtractDataFromHTML(data, 'Seq');
-        ///console.log(dataToSave);
-        
-        updateDate(dataToSave, 'CLT', 'Assignment Sequence', data);
-    });
+   
 });
 let browser = null;
 let page = null;
@@ -135,7 +137,7 @@ async function getData(base, report ,callback){
 
 async function doLogin(){
 
-    browser = await puppeteer.launch({headless: true, timeout: 0});
+    browser = await puppeteer.launch({headless: false, timeout: 0});
     page = await browser.newPage();
     await page.goto('https://faroms.aa.com/FAReserves/Reports/CalloutReports');
     
@@ -159,4 +161,4 @@ app.post('/load-data/:base', function(req, res){
 
 });
 
-app.listen(3000);
+app.listen(30001);
