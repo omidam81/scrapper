@@ -12,7 +12,7 @@ var url = 'mongodb://localhost:27017/myproject';
 
 
 app = express();
-function ExtractDataFromHTML(dataString){
+function ExtractDataFromHTML(dataString, type){
     let results = [];
     const $ = cheerio.load(dataString);
     let colums = [
@@ -32,12 +32,36 @@ function ExtractDataFromHTML(dataString){
         "History"
     ];
 
+    let colums_seq = [
+        "RAP", 
+        "GRP", 
+        "ASG", 
+        "Sen",
+        "Callout", 	
+        "Begin", 
+        "End", 
+        "FA", 
+        "Name", 	
+        "COT", 
+        "Speaker", 
+        "Result", 
+        "Report", 
+        "Pos", 
+        "History"
+    ]
+
     var datarows = $("#myReportTable tr");
     datarows.each((item, val) => {
         let tds = $(val).find('td');
         var row = {};
         for(var i =0; i< colums.length; i++)
+        {
+            let col = colums;
+            if(type == 'Seq') col = colums_seq;
+
             row[colums[i]] = $(tds[i]).text().trim();
+        }
+            
         results.push(row);
     });
     //console.log(results);
@@ -75,7 +99,7 @@ function updateDate(dataToSave, base, report){
 cron.schedule("* * * * *", function() {
     getData('CLT', 'Aggresive' ,  function(data){
         console.log("getting data");
-        dataToSave = ExtractDataFromHTML(data);
+        dataToSave = ExtractDataFromHTML(data, '');
         ///console.log(dataToSave);
         
         updateDate(dataToSave, 'CLT', 'Aggresive');
@@ -83,7 +107,7 @@ cron.schedule("* * * * *", function() {
 
     getData('CLT', 'Seq' ,  function(data){
         console.log("getting data");
-        dataToSave = ExtractDataFromHTML(data);
+        dataToSave = ExtractDataFromHTML(data, 'Seq');
         ///console.log(dataToSave);
         
         updateDate(dataToSave, 'CLT', 'Assignment Sequence');
